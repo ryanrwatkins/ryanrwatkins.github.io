@@ -16,7 +16,7 @@ description: "Professor in Educational Technology Leadership | Assoc. Director G
 #### Resume Contents
 
 * TOC
-{:toc :levels="2"}
+{:toc}
 
 ## Education
 
