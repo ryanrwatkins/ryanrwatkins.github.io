@@ -822,11 +822,13 @@ Kaufman, R. and Watkins, R. (April, 1997). Needs Assessment: Defining and Achiev
 
 #### Invited Presentations and Workshops
 
+Watkins, R. (2026). LLMs in Scientific Workflows. DTAIS Hands-On Workshop: Washington DC.
+
 Watkins, R. (2025). Rethinking Research Support: Navigating the Future of LLM-Augmented Research. National Council of University Research Administrators (NCURA): Washington DC.
 
 Watkins, R. (2025). Rewriting the Research Playbook: LLMs, Team Science, and the Future of Collaboration. Science of Team Science (keynote): Online.
 
-Watkins, R. (2025).  The Impact of AI on Education Policy. Institute for Educational Leadership. Arlington, VA.
+Watkins, R. (2025). The Impact of AI on Education Policy. Institute for Educational Leadership. Arlington, VA.
 
 Watkins, R. (2025). The Ethics of Artificial Intelligence in Public Health, Law & Society. Bioethics Interest Group (BIG). Washington DC.
 
