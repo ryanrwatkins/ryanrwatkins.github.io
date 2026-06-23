@@ -4,7 +4,7 @@ description: "Professor in Educational Technology Leadership | Assoc. Director G
 ---
 
 
-### Additional Profile Pages
+#### Additional Profile Pages
 
 [Github Repos](https://github.com/ryanrwatkins)
 
@@ -13,7 +13,7 @@ description: "Professor in Educational Technology Leadership | Assoc. Director G
 [Google Scholar](https://scholar.google.com/citations?user=heVXyrAAAAAJ&hl=en)
 
 
-### Resume Contents
+#### Resume Contents
 
 * TOC
 {:toc}
