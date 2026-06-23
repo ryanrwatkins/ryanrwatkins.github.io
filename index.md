@@ -20,7 +20,7 @@ description: "Professor in Educational Technology Leadership | Assoc. Director G
 
 ## Education
 
-### Degrees
+#### Degrees
 
 Post-Doctorate Studies and Research, Engineering Management, Old Dominion University, Norfolk, Virginia.
 
@@ -31,7 +31,7 @@ Master of Science, Instructional Systems Design, August of 1995: Florida State U
 Bachelor of Science, Secondary Mathematics Education, May of 1994: Florida State University, Tallahassee, Florida. 
 
 
-### Additional Training
+#### Additional Training
 
 
 Fundamentals of AI Agents ( HuggingFace )
@@ -56,7 +56,7 @@ Evaluating for Results, Southeast Evaluation Association: Tallahassee, Fl.
 
 ## Professional Experience
 
-### Positions
+#### Positions
 
 George Washington University
 
@@ -75,7 +75,7 @@ Florida State University
 Research Associate with the Learning Systems Institute's Office for Needs Assessment and Planning: Duties include coordination of cooperative projects, project management, research and development of conceptual and application models in the areas of needs assessment, strategic planning, evaluation, development of data collection and analysis instruments, grant/contract writing, and the facilitation of needs assessment and strategic planning projects. Responsibilities included Technical director and project manager for three grants with the Chief of Naval Education and Training (CNET) of the US Navy; Project director for the design, development, and implementation of a needs assessment for Workforce Development OCSEA/AFSCME; and development of a needs assessment comparison framework and instructional model for the US Veteran's Benefits Administration. (1994/1999)
 
 
-### Teaching Experience
+#### Teaching Experience
 
 
 George Washington University (2001/present)
@@ -117,7 +117,7 @@ Fairview Middle School (1994)
 · Seventh grade mathematics
 
 
-### Doctoral Student Committees
+#### Doctoral Student Committees
 
 
 George Washington University
@@ -1003,11 +1003,11 @@ E-learning Readiness (2004): NPR's Kojo Nnamdi Show, [http://www.wamu.org/ram/20
 
 ## Professional Affiliations
 
-### Partnerships (past and present)
+#### Partnerships (past and present)
 
 The Evaluator’s Institute (TEI)
 
-### Advisory Boards/Councils (present to past)
+#### Advisory Boards/Councils (present to past)
 
 Cyber Security and Privacy Research Institute: Board of Directors (2025 - present)
 
@@ -1033,11 +1033,11 @@ Digital Dakota Network
 
 American Association for Higher 
 
-### Grant Reviewer (past and present)
+#### Grant Reviewer (past and present)
 
 Social Sciences and Humanities Research Council of Canada
 
-### Memberships (present to past)
+#### Memberships (present to past)
 
 International Society for Performance Improvement (ISPI) - Member for life
 
@@ -1059,7 +1059,7 @@ Southeast Evaluation Association
 
 Phi Sigma Kappa Fraternity
 
-### Consulting Clients (past and present)
+#### Consulting Clients (past and present)
 
 Cherie Blair Foundation for Women
 
@@ -1088,7 +1088,7 @@ U.S. Veteran's Benefits Administration
 
 ## Professional Service
 
-### Service to the University
+#### Service to the University
 
 George Washington University’s AI@GW Mapping Committee (2025 – present)
 
@@ -1117,7 +1117,7 @@ George Washington University's Professional Ethics and Academic Freedom (2006 - 
 George Washington University's Center for Innovative Teaching and Learning Faculty Advisory Group (2007 - 2010)
 
 
-### Service to the Graduate School
+#### Service to the Graduate School
 
 George Washington University's Graduate School of Education and Human Development's Executive Committee (2026)
 
@@ -1146,7 +1146,7 @@ George Washington University's Graduate School of Education and Human Developmen
 George Washington University's Graduate School of Education and Human Development's Advisory Committee on Admissions and Student Services (2002 - 2004; Committee Chair)
 
 
-### Service to the Department
+#### Service to the Department
 
 George Washington University's Department of Educational Leadership's Personnel Committee (2014 - present)
 
@@ -1163,7 +1163,7 @@ George Washington University's Department of Educational Leadership's Ad Hoc Com
 George Washington University's Department of Educational Leadership's Executive Committee (2002 - 2006)
 
 
-### Service to previous institutions
+#### Service to previous institutions
 
 Nova Southeastern University's Online Learning Task Force (2000)
 
@@ -1180,7 +1180,7 @@ Florida State University's Department of Educational Research's Faculty Search C
 Florida State University's College of Education's Strategic Visioning Committee (1997)
 
 
-### Service to Associations
+#### Service to Associations
 
 America Evaluation Association: Needs Assessment Topical Interest Group Deputy Chair (2013 - 2016)
 
@@ -1221,7 +1221,7 @@ Prevention Policy Board for the Leon County Juvenile Justice Council, Chair (199
 Citizen’s Study Group on Human Services volunteer member (1997)
 
 
-### Editorial Contributions
+#### Editorial Contributions
 
 Journal of Engineering Education (2024/2025, Special Issue editor)
 
@@ -1248,7 +1248,7 @@ Distance Learning Magazine: Column Editor (2004 - 2007)
 Guest Editor for a Special Issue of the Quarterly Review of Distance Education (2003) on Instructional Design in Distance 
 
 
-### Manuscripts Reviewed
+#### Manuscripts Reviewed
 
 Reviewer for Altshuldt, J. (2009). Needs Assessment Toolkit: Phase Three. San Francisco: Sage.
 
