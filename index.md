@@ -1,5 +1,8 @@
 ---
 title: "Ryan Watkins, Ph.D."
+description: |
+  Professor in Educational Technology Leadership | Assoc. Director GW Trustworthy AI
+  George Washington University
 ---
 
 
