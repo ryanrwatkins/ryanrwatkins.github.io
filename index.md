@@ -146,7 +146,7 @@ Nova Southeastern University
 
 
 
-## Publications
+## Scholarly Works (Publications, Web Platforms, Code Packages, Podcast Episodes, etc.)
 
 
 [Downloads are for individual use only. The distribution of any materials is strictly prohibited. If you would like multiple copies of the articles, please contact the publisher. Thank you for your cooperation.]
