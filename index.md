@@ -1,4 +1,3 @@
-# Ryan Watkins, Ph.D.
 
 ## Additional Websites
 
