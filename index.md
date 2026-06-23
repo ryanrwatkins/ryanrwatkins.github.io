@@ -1,7 +1,12 @@
 # Ryan Watkins, Ph.D.
 
+## Additional Websites
 
-## 
+[Github Repos](https://github.com/ryanrwatkins)
+
+[GWU Website](https://gsehd.gwu.edu/directory/ryan-watkins)
+
+[Google Scholar](https://scholar.google.com/citations?user=heVXyrAAAAAJ&hl=en)
 
 ## Education
 
@@ -14,11 +19,6 @@ Master of Science, Instructional Systems Design, August of 1995: Florida State U
 
 Bachelor of Science, Secondary Mathematics Education, May of 1994: Florida State University, Tallahassee, Florida. 
 
-## Additional Training
-
-
-
-## 
 
 ## Additional Training
 
