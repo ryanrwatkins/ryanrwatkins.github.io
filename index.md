@@ -4,13 +4,19 @@ description: "Professor in Educational Technology Leadership | Assoc. Director G
 ---
 
 
-## Additional Profile Pages
+### Additional Profile Pages
 
 [Github Repos](https://github.com/ryanrwatkins)
 
 [GWU Website](https://gsehd.gwu.edu/directory/ryan-watkins)
 
 [Google Scholar](https://scholar.google.com/citations?user=heVXyrAAAAAJ&hl=en)
+
+
+### Resume Contents
+
+* TOC
+{:toc}
 
 ## Education
 
@@ -46,9 +52,6 @@ Managing Organizational Change, ODR, Incorporated: Atlanta, Ga.
 Improving Program Performance, Southeast Evaluation Association: Tallahassee, Fl.
 
 Evaluating for Results, Southeast Evaluation Association: Tallahassee, Fl.
-
-
-## 
 
 ## Professional Experience
 
@@ -140,7 +143,6 @@ Nova Southeastern University
 · McVay, Marguerita (1998, chair). Developing a Web-Based Environment to Enhance Inter and Intra-Agency Communications in a Rural Multi-Office Social Service Agency.
 
 
-## 
 
 ## Publications
 
@@ -148,9 +150,7 @@ Nova Southeastern University
 [Downloads are for individual use only. The distribution of any materials is strictly prohibited. If you would like multiple copies of the articles, please contact the publisher. Thank you for your cooperation.]
 
 
-### 
-
-## Books
+### Books
 
 
 Barba, L., Barker, L., Blank, D., Brown, J., Downey, A., George, T., Heagy, L., Mandli, K., Moore, J., Lippert, D., Niemeyer, K., Watkins, R., West, R., Wickes, E., Willing, C. and Zingale, M. (2018). Teaching and Learning with Jupyter. Open Source on Github.
@@ -182,7 +182,7 @@ Kaufman, R., Oakley-Brown, H., Watkins, R., and Leigh, D. (2003). Strategic Plan
 Kaufman, R., Watkins, R., and Leigh, D. (2001). Useful Educational Results: Defining, prioritizing and achieving. Lancaster, PA: Proactive Publishing.
 
 
-### Technology & Multimedia Projects
+### Technology, Websites, & Multimedia Projects
 
 [Projects done in: Python, PHP, Javascript, WordPress; other coding projects available on Github ]
 
@@ -1093,13 +1093,9 @@ McGraw-Hill Lifetime Learning, London
 U.S. Veteran's Benefits Administration
 
 
-## Professional 
+## Professional Service
 
-## Service
-
-
-
-#### Service to the University
+### Service to the University
 
 George Washington University’s AI@GW Mapping Committee (2025 – present)
 
@@ -1128,7 +1124,9 @@ George Washington University's Professional Ethics and Academic Freedom (2006 - 
 George Washington University's Center for Innovative Teaching and Learning Faculty Advisory Group (2007 - 2010)
 
 
-#### Service to the Graduate School
+### Service to the Graduate School
+
+George Washington University's Graduate School of Education and Human Development's Executive Committee (2026)
 
 George Washington University's Graduate School of Education and Human Development's AI Training for Faculty and Staff (2026)
 
@@ -1155,7 +1153,7 @@ George Washington University's Graduate School of Education and Human Developmen
 George Washington University's Graduate School of Education and Human Development's Advisory Committee on Admissions and Student Services (2002 - 2004; Committee Chair)
 
 
-#### Service to the Department
+### Service to the Department
 
 George Washington University's Department of Educational Leadership's Personnel Committee (2014 - present)
 
@@ -1172,7 +1170,7 @@ George Washington University's Department of Educational Leadership's Ad Hoc Com
 George Washington University's Department of Educational Leadership's Executive Committee (2002 - 2006)
 
 
-#### Service to previous institutions
+### Service to previous institutions
 
 Nova Southeastern University's Online Learning Task Force (2000)
 
@@ -1189,7 +1187,7 @@ Florida State University's Department of Educational Research's Faculty Search C
 Florida State University's College of Education's Strategic Visioning Committee (1997)
 
 
-#### Service to Associations
+### Service to Associations
 
 America Evaluation Association: Needs Assessment Topical Interest Group Deputy Chair (2013 - 2016)
 
@@ -1230,7 +1228,7 @@ Prevention Policy Board for the Leon County Juvenile Justice Council, Chair (199
 Citizen’s Study Group on Human Services volunteer member (1997)
 
 
-#### Editorial Contributions
+### Editorial Contributions
 
 Journal of Engineering Education (2024/2025, Special Issue editor)
 
@@ -1256,11 +1254,8 @@ Distance Learning Magazine: Column Editor (2004 - 2007)
 
 Guest Editor for a Special Issue of the Quarterly Review of Distance Education (2003) on Instructional Design in Distance 
 
-## Education
 
-
-
-#### Manuscripts Reviewed
+### Manuscripts Reviewed
 
 Reviewer for Altshuldt, J. (2009). Needs Assessment Toolkit: Phase Three. San Francisco: Sage.
 
