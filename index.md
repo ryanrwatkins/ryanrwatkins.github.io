@@ -20,6 +20,7 @@ description: "Professor in Educational Technology Leadership | Assoc. Director G
 
 ## Education
 
+### Degrees
 
 Post-Doctorate Studies and Research, Engineering Management, Old Dominion University, Norfolk, Virginia.
 
@@ -30,7 +31,7 @@ Master of Science, Instructional Systems Design, August of 1995: Florida State U
 Bachelor of Science, Secondary Mathematics Education, May of 1994: Florida State University, Tallahassee, Florida. 
 
 
-## Additional Training
+### Additional Training
 
 
 Fundamentals of AI Agents ( HuggingFace )
@@ -55,6 +56,7 @@ Evaluating for Results, Southeast Evaluation Association: Tallahassee, Fl.
 
 ## Professional Experience
 
+### Positions
 
 George Washington University
 
@@ -73,7 +75,7 @@ Florida State University
 Research Associate with the Learning Systems Institute's Office for Needs Assessment and Planning: Duties include coordination of cooperative projects, project management, research and development of conceptual and application models in the areas of needs assessment, strategic planning, evaluation, development of data collection and analysis instruments, grant/contract writing, and the facilitation of needs assessment and strategic planning projects. Responsibilities included Technical director and project manager for three grants with the Chief of Naval Education and Training (CNET) of the US Navy; Project director for the design, development, and implementation of a needs assessment for Workforce Development OCSEA/AFSCME; and development of a needs assessment comparison framework and instructional model for the US Veteran's Benefits Administration. (1994/1999)
 
 
-## Teaching Experience
+### Teaching Experience
 
 
 George Washington University (2001/present)
@@ -115,7 +117,7 @@ Fairview Middle School (1994)
 · Seventh grade mathematics
 
 
-## Doctoral Student Committees
+### Doctoral Student Committees
 
 
 George Washington University
