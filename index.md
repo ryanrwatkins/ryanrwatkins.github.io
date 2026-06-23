@@ -725,7 +725,7 @@ Watkins, R. (2004). Ends and Means: Defining success. Distance Learning Magazine
 Watkins, R. (2004). Ends and Means: Performance and performing. Distance Learning Magazine, 1(1), 42-44.
 
 
-#### Articles, Chapters, and Books in Preparation
+### In Preparation
 
 Watkins, R. & Lee, V. (in preparation). Documenting the Use of LLMs in Scientific Research: Guidance on ethical, transparent, and reproducible reporting.
 
