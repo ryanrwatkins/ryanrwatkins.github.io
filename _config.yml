@@ -2,4 +2,4 @@ title: "Ryan Watkins, Ph.D."
 description: "Professor in Educational Technology Leadership | George Washington University"
 theme: jekyll-theme-cayman
 kramdown:
-  toc_levels: "2,3"
+  toc_levels: 2,3
