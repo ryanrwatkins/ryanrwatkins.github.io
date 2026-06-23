@@ -1001,11 +1001,11 @@ E-learning Readiness (2004): NPR's Kojo Nnamdi Show, [http://www.wamu.org/ram/20
 
 ## Professional Affiliations
 
-Partnerships (past and present)
+### Partnerships (past and present)
 
 The Evaluator’s Institute (TEI)
 
-Advisory Boards/Councils (present to past)
+### Advisory Boards/Councils (present to past)
 
 Cyber Security and Privacy Research Institute: Board of Directors (2025 - present)
 
@@ -1023,9 +1023,6 @@ Institute for Needs Assessment and Evaluation
 
 Center for the Advancement of Research in Distance 
 
-## Education
-
-
 Northwestern University's Forum for People Performance, Management, and Measurement - Human Performance Think Tank
 
 Excelsior College 's Business Faculty Advisory Committee for the School of Business and Technology
@@ -1034,14 +1031,11 @@ Digital Dakota Network
 
 American Association for Higher 
 
-## Education
-
-
-Grant Reviewer (past and present)
+### Grant Reviewer (past and present)
 
 Social Sciences and Humanities Research Council of Canada
 
-Memberships (present to past)
+### Memberships (present to past)
 
 International Society for Performance Improvement (ISPI) - Member for life
 
@@ -1050,9 +1044,6 @@ Association for the Advancement of Artificial Intelligence
 American Evaluation Association
 
 Association for the Advancement of Computing in 
-
-## Education
-
 
 United States Distance Learning Association
 
@@ -1066,7 +1057,7 @@ Southeast Evaluation Association
 
 Phi Sigma Kappa Fraternity
 
-Consulting Clients (past and present)
+### Consulting Clients (past and present)
 
 Cherie Blair Foundation for Women
 
