@@ -75,6 +75,8 @@ Florida State University
 
 George Washington University (2001/present)
 
+* Designing Digital Learning (3 credit hours): a course fosused on the design, development, integration, and use of digital design, AI, and multimedia resources in education and training settings. 
+
 * Needs Assessment and Analysis (3 credit hours): a course designed to provide practitioners with the knowledge, tools, and experience to define, prioritize, and accomplish useful results through system-focused needs assessments.
 
 * Advanced Instructional Design (3 credit hours): an innovative course focusing on the rapid design and development of instruction.
