@@ -155,15 +155,19 @@ Nova Southeastern University
 ### Books
 
 
-Barba, L., Barker, L., Blank, D., Brown, J., Downey, A., George, T., Heagy, L., Mandli, K., Moore, J., Lippert, D., Niemeyer, K., Watkins, R., West, R., Wickes, E., Willing, C. and Zingale, M. (2018). Teaching and Learning with Jupyter. Open Source on Github.
+Barba, L., Barker, L., Blank, D., Brown, J., Downey, A., George, T., Heagy, L., Mandli, K., Moore, J., Lippert, D., Niemeyer, K., Watkins, R., West, R., Wickes, E., Willing, C. and Zingale, M. (2018). [Teaching and Learning with Jupyter](https://jupyter4edu.github.io/jupyter-edu-book/). Open Source on Github.
 
-Kumar, S., Watkins, R. (2017). The Art of Designing and Implementing Study Tours. Washington, DC: World Bank.  Available in print, or free online.
+Kumar, S., Leonard, A., Watkins, R., Vovides, Y., Kerby, B. (2018). [The Art of Knowledge Exchange: A Results-Focused Planning Guide for Development Practitioners in the Social, Urban, Land, and Resilience Sectors](https://openknowledge.worldbank.org/entities/publication/889d0700-f137-5fe6-81d3-df6756c289a1). Washington, DC: World Bank.  Available in print, or free online.
 
-Kumar, S., Leonard, A., Watkins, R. and Vovides, Y. (2014). Art of Knowledge Exchange. Washington, DC: World Bank. Will be available in print, or free online.
+Kumar, S., Watkins, R. (2017). [The Art of Designing and Implementing Study Tours](https://openknowledge.worldbank.org/entities/publication/a424ab06-f3cc-58d6-b7f5-a8f88810e3eb). Washington, DC: World Bank.  Available in print, or free online.
+
+Kumar, S., Leonard, A., Watkins, R. and Vovides, Y. (2014). [Art of Knowledge Exchange, 2nd Ed.](https://openknowledge.worldbank.org/entities/publication/0753d5b3-5f4c-57ee-aafb-b3c5f07389f2). Washington, DC: World Bank. Available in print, or free online.
 
 Watkins, R. and Corry, M. (2013). E-learning Companion: A student's guide to online success (4th Ed.). New York: Wadsworth/Cengage.
 
-Watkins, R., West Meiers, M. and Visser, Y. (2012). A Guide to Assessing Needs: Tools for collecting information, making decisions, and achieving development results. Washington, DC: World Bank. Available in print, or free online.
+Watkins, R., West Meiers, M. and Visser, Y. (2012). [A Guide to Assessing Needs: Tools for collecting information, making decisions, and achieving development results](https://openknowledge.worldbank.org/entities/publication/13865ef2-cb95-538b-91b0-6618ec02c869). Washington, DC: World Bank. Available in print, or free online.
+
+Kumar, S., Leonard, A., Watkins, R. and Vovides, Y. (2012). [Art of Knowledge Exchange](https://openknowledge.worldbank.org/entities/publication/5f336ebd-0d3a-52f8-a570-be81ca0fd144). Washington, DC: World Bank. Available in print, or free online.
 
 Watkins, R. and Corry, M. (2010). E-learning Companion: A student's guide to online success (3rd Ed.). New York: Wadsworth/Cengage.
 
@@ -179,7 +183,7 @@ Watkins, R. (2005). 75 E-learning Activities: Making online courses more interac
 
 Watkins, R. and Corry, M. (2004). E-learning Companion: A student's guide to online success. New York: Houghton Mifflin.
 
-Kaufman, R., Oakley-Brown, H., Watkins, R., and Leigh, D. (2003). Strategic Planning for Success: Aligning people, performance, and payoffs. San Francisco: Jossey-Bass. ( Review from Business Process Trends)
+Kaufman, R., Oakley-Brown, H., Watkins, R., and Leigh, D. (2003). Strategic Planning for Success: Aligning people, performance, and payoffs. San Francisco: Jossey-Bass.
 
 Kaufman, R., Watkins, R., and Leigh, D. (2001). Useful Educational Results: Defining, prioritizing and achieving. Lancaster, PA: Proactive Publishing.
 
@@ -575,9 +579,9 @@ Magana, A., Watkins, R., & Vieira, C. (2026) Generative Artificial Intelligence 
 
 Kurtz, G., Salmon, G., Watkins, R., Kaltz, M., and Buchem, I. (2024). Special Issue: The Integration of Generative AI in Teaching and Learning. European Journal of Open, Distance and E-Learning, 26(S1).
 
-Jayawardena, M., Heijndermans, E., West Meyers, M., Watkins, R., Butscher, J., Feng, S., and Berrah, N. (2021). Delphi Technique: Predicting Emerging Opportunities and Challenges in Renewable Energy. World Bank Group. [https://doi.org/10.2172/15011466](https://doi.org/10.2172/15011466)
+Jayawardena, M., Heijndermans, E., West Meyers, M., Watkins, R., Butscher, J., Feng, S., and Berrah, N. (2021). [Delphi Technique: Predicting Emerging Opportunities and Challenges in Renewable Energy](https://openknowledge.worldbank.org/entities/publication/e197e8ec-dc7b-5cff-8dd0-1e9865bcf84d). World Bank Group.
 
-Rubinson, C., Jayawardena, M., Watkins, R., Butscher, J., and Berrah, N. (2021). Qualitative Comparative Analysis: Exploring Causal Links for Scaling Up Investments in Renewable Energy. World Bank Group. [https://doi.org/10.1016/b978-0-12-804436-0.00004-7](https://doi.org/10.1016/b978-0-12-804436-0.00004-7)
+Rubinson, C., Jayawardena, M., Watkins, R., Butscher, J., and Berrah, N. (2021). [Qualitative Comparative Analysis: Exploring Causal Links for Scaling Up Investments in Renewable Energy](https://openknowledge.worldbank.org/entities/publication/0a79880b-0965-5ca9-9e52-ac5129ecd177). World Bank Group. 
 
 Watkins, R. (2020). Looking Back from the Future to Look Forward to Tomorrow. Performance Improvement Journal. [https://doi.org/10.1002/pfi.21911](https://doi.org/10.1002/pfi.21911](https://doi.org/10.1002/pfi.21911)
 
@@ -644,15 +648,15 @@ Kaufman, R., Keller, J. and Watkins, R. (1995). What Works and What Doesn’t: E
 
 ### Magazines and Blogs
 
-Watkins, R. (2024). Curating Content for Course Chatbots: Ethical Considerations for Educators. [https://doi.org/10.31219/osf.io/g25zs](https://doi.org/10.31219/osf.io/g25zs](https://doi.org/10.31219/osf.io/g25zs) ( Medium and OSF )
+Watkins, R. (2024). Curating Content for Course Chatbots: Ethical Considerations for Educators. [https://doi.org/10.31219/osf.io/g25zs](https://doi.org/10.31219/osf.io/g25zs) (Medium and OSF)
 
-Watkins, R., Barak-Medina, E., & Pugh, K. B. (2024). Is AI Hijacking Our Agency?. [https://doi.org/10.31219/osf.io/8bpaq](https://doi.org/10.31219/osf.io/8bpaq) ( Medium and OSF )
+Watkins, R., Barak-Medina, E., & Pugh, K. B. (2024). Is AI Hijacking Our Agency?. [https://doi.org/10.31219/osf.io/8bpaq](https://doi.org/10.31219/osf.io/8bpaq) (Medium and OSF)
 
-Watkins, R. (2023). From AI to A+: Prepare Your Students for Using ChatGPT and other AI. ( Medium )
+Watkins, R. (2023). [From AI to A+: Prepare Your Students for Using ChatGPT and other AI](https://medium.com/@rwatkins_7167/curating-content-for-course-chatbots-df15ce479a75?sharedUserId=rwatkins_7167). Medium.
 
 Watkins, R. & Feuer, M. (2023). AI challenges: Practical and Theoretical. Advancing and Evaluating the Societal Impact of Science (AESIS).
 
-Watkins, R. (2022). Update Your Course Syllabus for chatGPT. Medium. [60k + reads]
+Watkins, R. (2022). [Update Your Course Syllabus for ChatGPT](https://medium.com/@rwatkins_7167/updating-your-course-syllabus-for-chatgpt-965f4b57b003?sharedUserId=rwatkins_7167). Medium. [85k+ views]
 
 Watkins, R. (2021). Needs and Artificial Intelligence. American Evaluation Association 365 Blog.
 
@@ -1009,13 +1013,13 @@ E-learning Readiness (2004): NPR's Kojo Nnamdi Show, [http://www.wamu.org/ram/20
 
 The Evaluator’s Institute (TEI)
 
+The Center for Needs Assessment and Planning (CNAP)
+
 #### Advisory Boards/Councils (present to past)
 
 Cyber Security and Privacy Research Institute: Board of Directors (2025 - present)
 
 Horowitz Foundation for Social Policy: Board of Trustees (2024 - present)
-
-Horowitz Foundation for Social Policy: Board of Trustees (2023 - present)
 
 iOpening Enterprises: Advisory Board (2021 - present)
 
@@ -1067,7 +1071,7 @@ Cherie Blair Foundation for Women
 
 The World Bank Group
 
-Including workshops and projects for the World Bank Institute Capacity for Results (WBICR, formerly the WBIEG), Independent Evaluation Group (IEG), World Bank Institute Knowledge Exchange (WBIKE), the Africa Region Learning (AFRLN), the Latin-American Countries Development Effectiveness (LCSDE), Learning, Leadership, Innovation (LLI), Poverty Reduction and Economic Management (LCSPE, LCSPP), the Human Resource Services Leadership Board (HRSLB), Human Resource Analytics, WBG e-Institute, Finance and Private Sector Development (FPD), World Bank Institute Growth and Competitiveness Practice (WBIGC), Agriculture and Rural Development Sector (ARD), and the World Bank Institute Global Multimedia (WBIGM). Missions include China, Laos, Tunisia, Mexico, and Kenya.
+> Including workshops and projects for the World Bank Institute Capacity for Results (WBICR, formerly the WBIEG), Independent Evaluation Group (IEG), World Bank Institute Knowledge Exchange (WBIKE), the Africa Region Learning (AFRLN), the Latin-American Countries Development Effectiveness (LCSDE), Learning, Leadership, Innovation (LLI), Poverty Reduction and Economic Management (LCSPE, LCSPP), the Human Resource Services Leadership Board (HRSLB), Human Resource Analytics, WBG e-Institute, Finance and Private Sector Development (FPD), World Bank Institute Growth and Competitiveness Practice (WBIGC), Agriculture and Rural Development Sector (ARD), and the World Bank Institute Global Multimedia (WBIGM). Missions include China, Laos, Tunisia, Mexico, and Kenya.
 
 Inter-American Development Bank
 
@@ -1092,9 +1096,11 @@ U.S. Veteran's Benefits Administration
 
 #### Service to the University
 
-George Washington University’s AI@GW Mapping Committee (2025 – present)
+George Washington University's SPH Research Showcase, judge (2022)
 
-George Washington University’s Provost Search Advisory Committee (2025 – present)
+George Washington University’s AI@GW Mapping Committee (2025 – 2026)
+
+George Washington University’s Provost Search Advisory Committee (2025 – 2026)
 
 George Washington University's Alternative Credentials Task Force (2023 - 2024)
 
