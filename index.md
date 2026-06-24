@@ -185,7 +185,7 @@ Kaufman, R., Watkins, R., and Leigh, D. (2001). Useful Educational Results: Defi
 
 ### Technology, Websites, & Multimedia Projects
 
-[Projects done in: Python, PHP, Javascript, WordPress; other coding projects available on Github ]
+[Projects done in: Python, PHP, Javascript; many coding projects available on Github ]
 
 Watkins, R. (2025). [Synthetic Prediction Markets Platform](https://pmp.weshareresearch.com). (a platform for agent-based prediction market research)
 
