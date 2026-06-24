@@ -60,19 +60,19 @@ Evaluating for Results, Southeast Evaluation Association: Tallahassee, Fl.
 
 George Washington University
 
-Professor in Educational Technology Leadership (MA, program director 2022/current), Human-Technology Collaboration (PhD, program director, 2017/current), Trustworthy AI (Director of Education, 2024/2025, Associate Director 2025/current). Responsibilities include the design, development, and delivery of graduate and undergraduate courses delivered both at a distance as well as on-campus; scholarly research; student advising; service on university, college, and departmental committees; as well as other general academic duties. (Assistant Professor 2001/2007, Associate Professor 2007/2016, Full Professor 2016/current, ETL Program Director 2022/current, Interim Associate Dean of Research 2024)
+> Professor in Educational Technology Leadership (MA, program director 2022/current), Human-Technology Collaboration (PhD, program director, 2017/current), Trustworthy AI (Director of Education, 2024/2025, Associate Director 2025/current). Responsibilities include the design, development, and delivery of graduate and undergraduate courses delivered both at a distance as well as on-campus; scholarly research; student advising; service on university, college, and departmental committees; as well as other general academic duties. (Assistant Professor 2001/2007, Associate Professor 2007/2016, Full Professor 2016/current, ETL Program Director 2022/current, Interim Associate Dean of Research 2024)
 
 National Science Foundation
 
-Visiting Scholar (IPA): Responsibilities include the development and facilitation of distance learning and instructional design projects for the NSF Academy, coordinating the implementation of a learning management system, supporting knowledge management and communities of practice, delivery of training, and providing consultation to research directorates on issues related to distance learning. (2005/2006)
+> Visiting Scholar (IPA): Responsibilities include the development and facilitation of distance learning and instructional design projects for the NSF Academy, coordinating the implementation of a learning management system, supporting knowledge management and communities of practice, delivery of training, and providing consultation to research directorates on issues related to distance learning. (2005/2006)
 
 Nova Southeastern University
 
-Program (Assistant) Professor of Instructional Technology and Distance Education: Responsibilities include the design and development of distance education courses and materials for doctoral and masters degree seeking students; facilitation of distance education courses; recruitment and training of adjunct faculty; student advising on applied dissertations; demonstration of educational technologies for university faculty; facilitation of workshops on teaching through technology; service on college and department committees; as well as other general academic duties. (1999/2001)
+> Program (Assistant) Professor of Instructional Technology and Distance Education: Responsibilities include the design and development of distance education courses and materials for doctoral and masters degree seeking students; facilitation of distance education courses; recruitment and training of adjunct faculty; student advising on applied dissertations; demonstration of educational technologies for university faculty; facilitation of workshops on teaching through technology; service on college and department committees; as well as other general academic duties. (1999/2001)
 
 Florida State University
 
-Research Associate with the Learning Systems Institute's Office for Needs Assessment and Planning: Duties include coordination of cooperative projects, project management, research and development of conceptual and application models in the areas of needs assessment, strategic planning, evaluation, development of data collection and analysis instruments, grant/contract writing, and the facilitation of needs assessment and strategic planning projects. Responsibilities included Technical director and project manager for three grants with the Chief of Naval Education and Training (CNET) of the US Navy; Project director for the design, development, and implementation of a needs assessment for Workforce Development OCSEA/AFSCME; and development of a needs assessment comparison framework and instructional model for the US Veteran's Benefits Administration. (1994/1999)
+> Research Associate with the Learning Systems Institute's Office for Needs Assessment and Planning: Duties include coordination of cooperative projects, project management, research and development of conceptual and application models in the areas of needs assessment, strategic planning, evaluation, development of data collection and analysis instruments, grant/contract writing, and the facilitation of needs assessment and strategic planning projects. Responsibilities included Technical director and project manager for three grants with the Chief of Naval Education and Training (CNET) of the US Navy; Project director for the design, development, and implementation of a needs assessment for Workforce Development OCSEA/AFSCME; and development of a needs assessment comparison framework and instructional model for the US Veteran's Benefits Administration. (1994/1999)
 
 
 #### Teaching Experience
@@ -80,69 +80,69 @@ Research Associate with the Learning Systems Institute's Office for Needs Assess
 
 George Washington University (2001/present)
 
-· Needs Assessment and Analysis (3 credit hours): a course designed to provide practitioners with the knowledge, tools, and experience to define, prioritize, and accomplish useful results through system-focused needs assessments.
+* Needs Assessment and Analysis (3 credit hours): a course designed to provide practitioners with the knowledge, tools, and experience to define, prioritize, and accomplish useful results through system-focused needs assessments.
 
-· Advanced Instructional Design (3 credit hours): an innovative course focusing on the rapid design and development of instruction.
+* Advanced Instructional Design (3 credit hours): an innovative course focusing on the rapid design and development of instruction.
 
-· ICT Applications in International Education (3 credit hours): a seminar course on the application of ICTs and related technologies in international contexts.
+* ICT Applications in International Education (3 credit hours): a seminar course on the application of ICTs and related technologies in international contexts.
 
-· Instructional Design (3 credit hours): a course focused on the systematic design and development of academic and/or training courses with integrated technologies.
+* Instructional Design (3 credit hours): a course focused on the systematic design and development of academic and/or training courses with integrated technologies.
 
-· Learning, Technologies, and Organizations (3 credit hours): an introduction to the role of learning, professional development, and human capital in creating successful organizations -- including perspectives on knowledge management, e-learning, learning organizations, and social responsibility.
+* Learning, Technologies, and Organizations (3 credit hours): an introduction to the role of learning, professional development, and human capital in creating successful organizations -- including perspectives on knowledge management, e-learning, learning organizations, and social responsibility.
 
-· Research Methods (3 credit hours): an introductory course to educational research with emphasis on both quantitative and qualitative methods.
+* Research Methods (3 credit hours): an introductory course to educational research with emphasis on both quantitative and qualitative methods.
 
-· Computer Literacy (3 credit hours): an introductory course on the use of computers for undergraduate students (including how computers function; use of word processing, spreadsheet, and presentation software; the design and development of instructional Web sites; and the use of digital media).
+* Computer Literacy (3 credit hours): an introductory course on the use of computers for undergraduate students (including how computers function; use of word processing, spreadsheet, and presentation software; the design and development of instructional Web sites; and the use of digital media).
 
-· Managing Multimedia Production (3 credit hours): a course that examines the historical, conceptual, and practical issues associated with the management of multimedia production.
+* Managing Multimedia Production (3 credit hours): a course that examines the historical, conceptual, and practical issues associated with the management of multimedia production.
 
-· Masters Project (1 credit hours): a short course on media and electronic portfolio development for Masters students.
+* Masters Project (1 credit hours): a short course on media and electronic portfolio development for Masters students.
 
 Nova Southeastern University (1999/2001)
 
-· Instructional Design and Development (5 credit hours): Two courses, taught together, with specific consideration to the design and development of academic courses and/or training with integrated technology.
+* Instructional Design and Development (5 credit hours): Two courses, taught together, with specific consideration to the design and development of academic courses and/or training with integrated technology.
 
-· Technology Management (3 credit hours): Developed for managers of instructional technology projects and programs, this course focuses on managing educational processes that utilize technology.
+* Technology Management (3 credit hours): Developed for managers of instructional technology projects and programs, this course focuses on managing educational processes that utilize technology.
 
-· Technology for Teachers (2 credit hours): A course designed for K-12 educators who want to integrate technology into their lesson design and classroom activities.
+* Technology for Teachers (2 credit hours): A course designed for K-12 educators who want to integrate technology into their lesson design and classroom activities.
 
-· System Planning and Design (7 credit hours): Two courses, taught together, with emphasis on the analysis and design of educational systems for distance education.
+* System Planning and Design (7 credit hours): Two courses, taught together, with emphasis on the analysis and design of educational systems for distance education.
 
 Florida State University (1995/1998)
 
-· Performance System Design (3 credit hours): Teaching assistant to Roger Kaufman.
+* Performance System Design (3 credit hours): Teaching assistant to Roger Kaufman.
 
 Fairview Middle School (1994)
 
-· Seventh grade mathematics
+* Seventh grade mathematics
 
 
-#### Doctoral Student Committees
+#### Doctoral Students
 
 
 George Washington University
 
-· Faruqe, Farhana (2023). How intelligent machines can sense and respond to human trust.
+* Faruqe, Farhana (2023). How intelligent machines can sense and respond to human trust.
 
-· Willford, John (2021). The Effect Of Algorithm Transparency On Algorithm Utilization. · Kaminsky, Samuel (2019). Video-Recorded Vs. Synchronous Interviews: Equivalence and Applicant Reactions.
+* Willford, John (2021). The Effect Of Algorithm Transparency On Algorithm Utilization. * Kaminsky, Samuel (2019). Video-Recorded Vs. Synchronous Interviews: Equivalence and Applicant Reactions.
 
-· Sedgwick, Randy (2014). How New Employees Learn Their Professional Role: A Case Study of a Blended Learning Program
+* Sedgwick, Randy (2014). How New Employees Learn Their Professional Role: A Case Study of a Blended Learning Program
 
-· Barnes, Karen (2009). Distance Learning Policy Implementation.
+* Barnes, Karen (2009). Distance Learning Policy Implementation.
 
-· Bronson, Rowan (2008). Teaching Critical Thinking Skills in Distance Education.
+* Bronson, Rowan (2008). Teaching Critical Thinking Skills in Distance Education.
 
 Nova Southeastern University
 
-· Moody, Kevin (2000, chair). Collaborative Learning for Pharmacists at a Distance: Improved quality and access of continuing professional development programs.
+* Moody, Kevin (2000, chair). Collaborative Learning for Pharmacists at a Distance: Improved quality and access of continuing professional development programs.
 
-· Parker, Jonnie (2000, chair). Using Web-Enhanced Instruction to Enable Teachers at a Science and Technology Magnet School to Implement Technology.
+* Parker, Jonnie (2000, chair). Using Web-Enhanced Instruction to Enable Teachers at a Science and Technology Magnet School to Implement Technology.
 
-· Sodano-Richards, Verna (2000, chair). Teacher Technology Competencies and Professional Development.
+* Sodano-Richards, Verna (2000, chair). Teacher Technology Competencies and Professional Development.
 
-· McDonough, Ellen (2000, chair). Technology Integration: A Tool to Enhance Learning.
+* McDonough, Ellen (2000, chair). Technology Integration: A Tool to Enhance Learning.
 
-· McVay, Marguerita (1998, chair). Developing a Web-Based Environment to Enhance Inter and Intra-Agency Communications in a Rural Multi-Office Social Service Agency.
+* McVay, Marguerita (1998, chair). Developing a Web-Based Environment to Enhance Inter and Intra-Agency Communications in a Rural Multi-Office Social Service Agency.
 
 
 
@@ -838,7 +838,7 @@ Watkins, R. (2025). The Ethics of Artificial Intelligence in Public Health, Law 
 
 Watkins, R. (2025). Supporting Good AI Governance Practices Within Organizations. Trustworthy AI in Law & Society (TRAILS) 2025 Conference. Washington DC.
 
-·Watkins, R. (2025). Rethinking Research Support: Navigating the Future of LLM-Augmented Research. National Council of University Research Administrators (NCURA): Washington DC.
+*Watkins, R. (2025). Rethinking Research Support: Navigating the Future of LLM-Augmented Research. National Council of University Research Administrators (NCURA): Washington DC.
 
 Watkins, R. (2025). Rewriting the Research Playbook: LLMs, Team Science, and the Future of Collaboration. Science of Team Science (keynote): Online.
 
