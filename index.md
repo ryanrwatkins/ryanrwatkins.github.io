@@ -6,12 +6,7 @@ description: "Professor in Educational Technology Leadership | Assoc. Director G
 
 #### Additional Profile Pages
 
-[Github Repos](https://github.com/ryanrwatkins)
-
-[GWU Website](https://gsehd.gwu.edu/directory/ryan-watkins)
-
-[Google Scholar](https://scholar.google.com/citations?user=heVXyrAAAAAJ&hl=en)
-
+[Github Repos](https://github.com/ryanrwatkins) | [GWU Website](https://gsehd.gwu.edu/directory/ryan-watkins) | [Google Scholar](https://scholar.google.com/citations?user=heVXyrAAAAAJ&hl=en)
 
 #### Resume Contents
 
@@ -34,25 +29,25 @@ Bachelor of Science, Secondary Mathematics Education, May of 1994: Florida State
 #### Additional Training
 
 
-Fundamentals of AI Agents ( HuggingFace )
+* Fundamentals of AI Agents ( HuggingFace )
 
-Open Science + Research Software Engineering ( URSSI )
+* Open Science + Research Software Engineering ( URSSI )
 
-AI Policy Certificate, Center for Artificial Intelligence and Digital Policy (CAIDP)
+* AI Policy Certificate, Center for Artificial Intelligence and Digital Policy (CAIDP)
 
-Python Bootcamp, George Washington University
+* Python Bootcamp, George Washington University
 
-Visual Display of Quantitative Information, Edward Tufte: Washington DC.
+* Visual Display of Quantitative Information, Edward Tufte: Washington DC.
 
-MS Groove Trainer, Groove Networks: Boston, Ma.
+* MS Groove Trainer, Groove Networks: Boston, Ma.
 
-Fundamentals of Web Design, Cisco Networking Academy: Washington DC.
+* Fundamentals of Web Design, Cisco Networking Academy: Washington DC.
 
-Managing Organizational Change, ODR, Incorporated: Atlanta, Ga.
+* Managing Organizational Change, ODR, Incorporated: Atlanta, Ga.
 
-Improving Program Performance, Southeast Evaluation Association: Tallahassee, Fl.
+* Improving Program Performance, Southeast Evaluation Association: Tallahassee, Fl.
 
-Evaluating for Results, Southeast Evaluation Association: Tallahassee, Fl.
+* Evaluating for Results, Southeast Evaluation Association: Tallahassee, Fl.
 
 ## Professional Experience
 
