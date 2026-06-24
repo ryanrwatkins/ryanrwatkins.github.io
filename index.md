@@ -55,7 +55,7 @@ Bachelor of Science, Secondary Mathematics Education, May of 1994: Florida State
 
 George Washington University
 
-> Professor in Educational Technology Leadership (MA, program director 2022/current), Human-Technology Collaboration (PhD, program director, 2017/current), Trustworthy AI (Director of Education, 2024/2025, Associate Director 2025/current). Responsibilities include the design, development, and delivery of graduate and undergraduate courses delivered both at a distance as well as on-campus; scholarly research; student advising; service on university, college, and departmental committees; as well as other general academic duties. (Assistant Professor 2001/2007, Associate Professor 2007/2016, Full Professor 2016/current, ETL Program Director 2022/current, Interim Associate Dean of Research 2024)
+> Professor in Educational Technology Leadership (MA), Human-Technology Collaboration (PhD, program director, 2017/current), GW Trustworthy AI (Director of Education, 2024/2025, Associate Director 2025/current). Responsibilities include the design, development, and delivery of graduate and undergraduate courses delivered both at a distance as well as on-campus; scholarly research; student advising; service on university, college, and departmental committees; as well as other general academic duties. (Assistant Professor 2001/2007, Associate Professor 2007/2016, Full Professor 2016/current, ETL Program Director 2022/2026, Interim Associate Dean of Research 2024)
 
 National Science Foundation
 
