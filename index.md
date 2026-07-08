@@ -378,11 +378,11 @@ Leigh, D., Watkins, R., & Vosoughi, S..(2018, April 2). Parsing Science - How Mi
 
 Watkins, R., Leigh, D., & Wahl, A.-S.. (2018, March 21). Parsing Science - Stroke Recovery with Light. figshare. [https://doi.org/10.6084/m9.figshare.6007733](https://doi.org/10.6084/m9.figshare.6007733) 
 
-Leigh, D., Watkins, R., & Kraus, M.. (2018, March 6). Parsing Science - Empathic Accuracy. figshare. [https://doi.org/10.6084/m9.figshare.595620](https://doi.org/10.6084/m9.figshare.595620)
+Leigh, D., Watkins, R., & Kraus, M.. (2018, March 6). Parsing Science - Empathic Accuracy. figshare. [https://doi.org/10.6084/m9.figshare.5956207](https://doi.org/10.6084/m9.figshare.5956207)
 
 Leigh, D., & Watkins, R.. (2018, February 20). Parsing Science - Universals in Songs with Sam Mehr and Manvir Singh. figshare. [https://doi.org/10.6084/m9.figshare.5915416](https://doi.org/10.6084/m9.figshare.5915416) 
 
-Watkins, R., & Leigh, D.. (2018, February 6). Parsing Science - Creating Deceptive Performance with Niki den Nieuwenboer. figshare. [https://doi.org/10.6084/m9.figshare.591541](https://doi.org/10.6084/m9.figshare.591541) 
+Watkins, R., & Leigh, D.. (2018, February 6). Parsing Science - Creating Deceptive Performance with Niki den Nieuwenboer. figshare. [https://doi.org/10.6084/m9.figshare.5915413](https://doi.org/10.6084/m9.figshare.5915413) 
 
 Leigh, D., & Watkins, R.. (2018, January 23). Parsing Science - Decisions to Move with Bill Clark. figshare. [https://doi.org/10.6084/m9.figshare.5915404](https://doi.org/10.6084/m9.figshare.5915404) 
 
@@ -435,47 +435,47 @@ Watkins, R., & Barak-Medina, E. (2024). AI’s Influence on Human Creative Agenc
 
 Watkins, R. (2023). Guidance for researchers and peer‑reviewers on the ethical use of Large Language Models (LLMs) in scientific research workflows. AI and Ethics. [https://doi.org/10.1007/s43681-023-00294-5](https://doi.org/10.1007/s43681-023-00294-5)
 
-Human, S. and Watkins, R.  (2022). Needs and Artificial Intelligence. AI and Ethics. [https://doi.org/10.1007/s43681-022-00206-z](https://doi.org/10.1007/s43681-022-00206-z](https://doi.org/10.1007/s43681-022-00206-z) [preprint arXiv or epub.wu.ac.at]
+Human, S. and Watkins, R.  (2022). Needs and Artificial Intelligence. AI and Ethics. [https://doi.org/10.1007/s43681-022-00206-z](https://doi.org/10.1007/s43681-022-00206-z) [preprint arXiv or epub.wu.ac.at]
 
 Watkins, R., Human, S. (2022). Needs -aware artificial intelligence: AI that ‘serves [human] needs’. AI and Ethics. [https://doi.org/10.1007/s43681-022-00181-5](https://doi.org/10.1007/s43681-022-00181-5) [preprint arXiv ]
 
-Wallen, M.M., Guerra-Lopez, I., Meroueh, L., Mohamed, R., Sankar, A., Sopory, P., Watkins, R., and Kashian, D.R. (2022). Designing and Implementing a Novel Graduate Program to Develop Transdisciplinary Leaders in Urban Sustainability. Ecosphere doi: [http://doi.org/[https://doi.org/10.1002/ecs2.3901.](https://doi.org/10.1002/ecs2.3901.)
+Wallen, M.M., Guerra-Lopez, I., Meroueh, L., Mohamed, R., Sankar, A., Sopory, P., Watkins, R., and Kashian, D.R. (2022). Designing and Implementing a Novel Graduate Program to Develop Transdisciplinary Leaders in Urban Sustainability. Ecosphere doi: [https://doi.org/10.1002/ecs2.3901](https://doi.org/10.1002/ecs2.3901)
 
-Watkins, R., Corry, M., Dardick, W., and Stella, J. (2015). Note-taking Habits of Online Students: Value, Quality, and Support. Quarterly Review of Distance Education. [https://doi.org/10.1007/s10639-016-9530-9](https://doi.org/10.1007/s10639-016-9530-9)
+Watkins, R., Corry, M., Dardick, W., and Stella, J. (2015). Note-taking Habits of Online Students: Value, Quality, and Support. Quarterly Review of Distance Education.
 
-Lim, J., Dannels, S. and Watkins, R. (2009). Qualitative Investigation of Doctoral Students’ Learning Experiences in Online Research Method Courses. Quarterly Review of Distance Education. [https://doi.org/10.4018/978-1-60566-198-8.ch075](https://doi.org/10.4018/978-1-60566-198-8.ch075)
+Lim, J., Dannels, S. and Watkins, R. (2009). Qualitative Investigation of Doctoral Students’ Learning Experiences in Online Research Method Courses. Quarterly Review of Distance Education. [https://doi.org/10.1108/qrde-09-2008-0001](https://doi.org/10.1108/qrde-09-2008-0001)
 
-Leigh, D. and Watkins, R. (2005). E-learner Success: Validating a Self-Assessment of Learner Readiness for Online Training. Referred proceedings from the international conference of the American Society for Training and Development: Orlando, Fl. [https://doi.org/10.1093/med/9780198736134.003.0011](https://doi.org/10.1093/med/9780198736134.003.0011)
+Leigh, D. and Watkins, R. (2005). E-learner Success: Validating a Self-Assessment of Learner Readiness for Online Training. Referred proceedings from the international conference of the American Society for Training and Development: Orlando, Fl.
 
-Ronsisvalle, T, and Watkins, R. (2005). Student Success in Online K-12 Education. Quarterly Review of Distance Education. 6(2). [https://doi.org/10.4324/9780203095737-8](https://doi.org/10.4324/9780203095737-8)
+Ronsisvalle, T, and Watkins, R. (2005). Student Success in Online K-12 Education. Quarterly Review of Distance Education. 6(2).
 
 Watkins, R., Leigh, D., and Triner, D. (2004). Assessing Readiness for E-learning. Performance Improvement Quarterly, 17(4), 66-79. [https://doi.org/10.1111/j.1937-8327.2004.tb00321.x](https://doi.org/10.1111/j.1937-8327.2004.tb00321.x)
 
-Watkins, R. and Corry, M. (2004). E-learning: It is not just for distance education students anymore. Proceedings from AACE E-learning Conference: Washington DC. [https://doi.org/10.4018/978-1-59140-555-9.ch114](https://doi.org/10.4018/978-1-59140-555-9.ch114)
+Watkins, R. and Corry, M. (2004). E-learning: It is not just for distance education students anymore. Proceedings from AACE E-learning Conference: Washington DC.
 
 Watkins, R. (2003). Determining if Distance Education is the Right Choice: Applied strategic thinking in education. Computers in the Schools, 20(2), 103-120. [https://doi.org/10.1300/j025v20n03_10](https://doi.org/10.1300/j025v20n03_10)
 
-Watkins, R. and Schlosser, C. (2003). Conceptualizing Educational Research in Distance Education. Quarterly Review of Distance Education, 4(3), 331-341. [https://doi.org/10.1080/08923640009527063](https://doi.org/10.1080/08923640009527063)
+Watkins, R. and Schlosser, C. (2003). Conceptualizing Educational Research in Distance Education. Quarterly Review of Distance Education, 4(3), 331-341. [https://doi.org/10.1108/qrde-09-2003-0015](https://doi.org/10.1108/qrde-09-2003-0015)
 
-Guerra, I. and Watkins, R. (2003). Systematically Designing Instruction for Distance Education. Quarterly Review of Distance Education, 4(3), 199-201. [https://doi.org/10.1207/s15389286ajde1703_6](https://doi.org/10.1207/s15389286ajde1703_6)
+Guerra, I. and Watkins, R. (2003). Systematically Designing Instruction for Distance Education. Quarterly Review of Distance Education, 4(3), 199-201.
 
-Watkins, R., & Schlosser, C. (2003). It’s Not About Time: A fresh approach to educational equivalency. TechTrends Journal, 47(3), 35-39. [https://doi.org/10.1207/s15389286ajde1703_6](https://doi.org/10.1207/s15389286ajde1703_6)
+Watkins, R., & Schlosser, C. (2003). It’s Not About Time: A fresh approach to educational equivalency. TechTrends Journal, 47(3), 35-39. [https://doi.org/10.1007/bf02763474](https://doi.org/10.1007/bf02763474)
 
-Watkins, R. and Schlosser, C. (2002). Moving Past Time as the Criteria: The application of Capabilities-Based Educational Equivalency Units in higher education. The Online Journal of Distance Education Administration, 5(3). 35-40. [https://doi.org/10.1080/08923640009527063](https://doi.org/10.1080/08923640009527063](https://doi.org/10.1080/08923640009527063)
+Watkins, R. and Schlosser, C. (2002). Moving Past Time as the Criteria: The application of Capabilities-Based Educational Equivalency Units in higher education. The Online Journal of Distance Education Administration, 5(3). 35-40.
 
 Kaufman, R., Watkins, R., and Guerra, I. (2002). Getting Valid and Useful Educational Results and Payoffs: We are what do, say, and deliver. International Journal of Educational Reform, 11(1), 77-92. [https://doi.org/10.1177/105678790201100105](https://doi.org/10.1177/105678790201100105)
 
 Watkins, R. (2001). The Relationship of Some Personality and Individual Characteristics with and Individual’s Commitment to an Ideal Vision for Performance Improvement.Performance Improvement Quarterly, 14(3), 118-133. [https://doi.org/10.1111/j.1937-8327.2001.tb00221.x](https://doi.org/10.1111/j.1937-8327.2001.tb00221.x)
 
-Watkins, R. (2000). How Distance Education is Changing Workforce Development. Quarterly Review of Distance Education, 1(3), 241-246. [https://doi.org/10.1080/01587919.2015.1055055](https://doi.org/10.1080/01587919.2015.1055055)
+Watkins, R. (2000). How Distance Education is Changing Workforce Development. Quarterly Review of Distance Education, 1(3), 241-246. [https://doi.org/10.1108/qrde-09-2000-0009](https://doi.org/10.1108/qrde-09-2000-0009)
 
-Watkins, R. and Schlosser, C. (2000). Capabilities Based Educational Equivalency Units Beginning a professional dialogue. American Journal of Distance Education, 14(3), 34-47. [https://doi.org/10.1080/08923640009527063)
+Watkins, R. and Schlosser, C. (2000). Capabilities Based Educational Equivalency Units Beginning a professional dialogue. American Journal of Distance Education, 14(3), 34-47. [https://doi.org/10.1080/08923640009527063](https://doi.org/10.1080/08923640009527063)
 
-Kaufman, R. and Watkins, R. (2000). Assuring the Future of Distance Learning. The Quarterly Review of Distance Education, 1(1), 59-67. [https://doi.org/10.4324/9780203803738.ch28](https://doi.org/10.4324/9780203803738.ch28)
+Kaufman, R. and Watkins, R. (2000). Assuring the Future of Distance Learning. The Quarterly Review of Distance Education, 1(1), 59-67. [https://doi.org/10.1108/qrde-02-2000-0006](https://doi.org/10.1108/qrde-02-2000-0006)
 
-Leigh, D., Watkins, R., Platt, W., and Kaufman, R. (2000). Alternate Models of Needs Assessment: Selecting the right one for your organization? Human Resource Development Quarterly, 11(1), 87-93. [https://doi.org/10.1002/1532-1096(200021)11:1](https://doi.org/10.1002/1532-1096(200021)
+Leigh, D., Watkins, R., Platt, W., and Kaufman, R. (2000). Alternate Models of Needs Assessment: Selecting the right one for your organization? Human Resource Development Quarterly, 11(1), 87-93. [https://doi.org/10.1002/1532-1096(200021)11:1<87::aid-hrdq7>3.0.co;2-a](https://doi.org/10.1002/1532-1096%28200021%2911%3A1%3C87%3A%3Aaid-hrdq7%3E3.0.co%3B2-a)
 
-Watkins, R., Leigh, D., Foshay, R., & Kaufman, R. (1998). Kirkpatrick Plus: Evaluation and continuous improvement with a community focus. Educational Technology Research and Development, 46(4), 90-96. [https://doi.org/10.1002/1532-1096(200021)11:1](https://doi.org/10.1002/1532-1096(200021)
+Watkins, R., Leigh, D., Foshay, R., & Kaufman, R. (1998). Kirkpatrick Plus: Evaluation and continuous improvement with a community focus. Educational Technology Research and Development, 46(4), 90-96. [https://doi.org/10.1007/bf02299676](https://doi.org/10.1007/bf02299676)
 
 Kaufman, R., Stith, M., Triner, D. And Watkins, R. (1998). The Changing Corporate Mind: Organizations, vision, mission, purposes, and indicators on the move toward societal payoffs. Performance Improvement Quarterly, 11(3), 32-34. [https://doi.org/10.1111/j.1937-8327.1998.tb00098.x](https://doi.org/10.1111/j.1937-8327.1998.tb00098.x)
 
@@ -483,7 +483,7 @@ Kaufman, R., Watkins, R. And Sims, L. (1997). Cost-Consequences Analysis: A case
 
 Watkins, R., Triner, D. and Kaufman, R. (1996). The Death and Resurrection of Strategic Planning: A review of Mintzberg’s The Rise and Fall of Strategic Planning.International Journal of Educational Reform, 5(3), 390-393. [https://doi.org/10.1177/105678799600500318](https://doi.org/10.1177/105678799600500318)
 
-Kaufman, R. and Watkins, R. (1996). Cost-Consequences Analysis. Human Resources Development Quarterly, 7(1), 87 – 100. [https://doi.org/10.1002/hrdq.3920070109](https://doi.org/10.1002/hrdq.3920070109](https://doi.org/10.1002/hrdq.3920070109)
+Kaufman, R. and Watkins, R. (1996). Cost-Consequences Analysis. Human Resources Development Quarterly, 7(1), 87 – 100. [https://doi.org/10.1002/hrdq.3920070109](https://doi.org/10.1002/hrdq.3920070109)
 
 ­
 
@@ -580,19 +580,19 @@ Jayawardena, M., Heijndermans, E., West Meyers, M., Watkins, R., Butscher, J., F
 
 Rubinson, C., Jayawardena, M., Watkins, R., Butscher, J., and Berrah, N. (2021). [Qualitative Comparative Analysis: Exploring Causal Links for Scaling Up Investments in Renewable Energy](https://openknowledge.worldbank.org/entities/publication/0a79880b-0965-5ca9-9e52-ac5129ecd177). World Bank Group. 
 
-Watkins, R. (2020). Looking Back from the Future to Look Forward to Tomorrow. Performance Improvement Journal. [https://doi.org/10.1002/pfi.21911](https://doi.org/10.1002/pfi.21911](https://doi.org/10.1002/pfi.21911)
+Watkins, R. (2020). Looking Back from the Future to Look Forward to Tomorrow. Performance Improvement Journal. [https://doi.org/10.1002/pfi.21911](https://doi.org/10.1002/pfi.21911)
 
 Watkins, R. (2017). Monitoring and Evaluation Training: A Systematic Approach [book review]. Journal of Evaluation and Program Planning. [https://doi.org/10.1016/j.evalprogplan.2017.03.008](https://doi.org/10.1016/j.evalprogplan.2017.03.008)
 
-Watkins, R., Engel, L., and Hastedt, D. (2015). Is the “Net Generation” Ready for Digital Citizenship?: Perspectives from the International Computer and Information Literacy Study. [policy brief] International Association of the Evaluation of Educational Achievement. [https://doi.org/10.1007/978-3-030-26203-7_3](https://doi.org/10.1007/978-3-030-26203-7_3)
+Watkins, R., Engel, L., and Hastedt, D. (2015). Is the “Net Generation” Ready for Digital Citizenship?: Perspectives from the International Computer and Information Literacy Study. [policy brief] International Association of the Evaluation of Educational Achievement.
 
-Altschuld, J. W., & Watkins, R. (2014). A primer on needs assessment: More than 40 years of research and practice. In J. W. Altschuld & R. Watkins (Eds.), Needs assessment: Trends and a view toward the future. New Directions for Evaluation, 144, 5–18. [https://doi.org/10.1007/978-3-030-26203-7_3)
+Altschuld, J. W., & Watkins, R. (2014). A primer on needs assessment: More than 40 years of research and practice. In J. W. Altschuld & R. Watkins (Eds.), Needs assessment: Trends and a view toward the future. New Directions for Evaluation, 144, 5–18. [https://doi.org/10.1002/ev.20099](https://doi.org/10.1002/ev.20099)
 
-Watkins, R., & Kavale, J. (2014). Needs: Defining what you are assessing. In J. W. Altschuld & R. Watkins (Eds.), Needs assessment: Trends and a view toward the future. New Directions for Evaluation, 144, 19–31. [https://doi.org/10.1007/978-3-030-26203-7_3](https://doi.org/10.1007/978-3-030-26203-7_3)
+Watkins, R., & Kavale, J. (2014). Needs: Defining what you are assessing. In J. W. Altschuld & R. Watkins (Eds.), Needs assessment: Trends and a view toward the future. New Directions for Evaluation, 144, 19–31. [https://doi.org/10.1002/ev.20100](https://doi.org/10.1002/ev.20100)
 
-West Meiers, M. W., Watkins, R., & Song, K. M. (2014). International perspectives: Similarities and differences around the globe. In J. W. Altschuld & R. Watkins (Eds.), Needs assessment: Trends and a view toward the future. New Directions for Evaluation, 144, 75–87. [https://doi.org/10.1007/978-3-030-26203-7_3](https://doi.org/10.1007/978-3-030-26203-7_3)
+West Meiers, M. W., Watkins, R., & Song, K. M. (2014). International perspectives: Similarities and differences around the globe. In J. W. Altschuld & R. Watkins (Eds.), Needs assessment: Trends and a view toward the future. New Directions for Evaluation, 144, 75–87. [https://doi.org/10.1002/ev.20104](https://doi.org/10.1002/ev.20104)
 
-Watkins, R., & Altschuld, J. M. (2014). A final note about improving needs assessment research and practice. In J. W. Altschuld & R. Watkins (Eds.), Needs assessment: Trends and a view toward the future New Directions for Evaluation, 144, 105–114. [https://doi.org/10.1007/978-3-030-26203-7_3](https://doi.org/10.1007/978-3-030-26203-7_3)
+Watkins, R., & Altschuld, J. M. (2014). A final note about improving needs assessment research and practice. In J. W. Altschuld & R. Watkins (Eds.), Needs assessment: Trends and a view toward the future New Directions for Evaluation, 144, 105–114. [https://doi.org/10.1002/ev.20106](https://doi.org/10.1002/ev.20106)
 
 Watkins, R. (2014). Book Review: Trends and Issues in Distance Education: International Perspectives, 2nd ed. Performance Improvement Journal, 53(1). [https://doi.org/10.1002/pfi.21392](https://doi.org/10.1002/pfi.21392)
 
@@ -606,7 +606,7 @@ Watkins, R. (2007). Designing for Performance: Selecting your performance techno
 
 Watkins, R. (2007). Designing for Performance: Aligning all of your HPT decisions from top to bottom (part 1 of 3). Performance Improvement Journal. [https://doi.org/10.1002/pfi.033](https://doi.org/10.1002/pfi.033)
 
-Watkins, R. (2005, Sept.). Preparing e-Learners for Online Success. LearningCircuits Magazine. [https://doi.org/10.1002/nsr.30373](https://doi.org/10.1002/nsr.30373)
+Watkins, R. (2005, Sept.). Preparing e-Learners for Online Success. LearningCircuits Magazine.
 
 Watkins, R. (2005). Developing Interactive E-learning Activities. Performance Improvement Journal, 44(5). [https://doi.org/10.1002/pfi.4140440504](https://doi.org/10.1002/pfi.4140440504)
 
@@ -616,9 +616,9 @@ Watkins, R. and Kaufman, R. (2002). Assessing and Evaluating: Differentiating pe
 
 Watkins, R. and Leigh, D. (2001). Performance Improvement: More than bettering the here and now. Performance Improvement Journal, 40(8), 10-15. [https://doi.org/10.1002/pfi.4140400805](https://doi.org/10.1002/pfi.4140400805)
 
-Kaufman, R., Watkins, R., and Guerra, I. (2001). The Future of Distance Education: Defining and sustaining useful results. Educational Technology, 41(3), 19-26. [https://doi.org/10.1177/105678790201100105](https://doi.org/10.1177/105678790201100105)
+Kaufman, R., Watkins, R., and Guerra, I. (2001). The Future of Distance Education: Defining and sustaining useful results. Educational Technology, 41(3), 19-26.
 
-Watkins, R. and Schlosser, C. (2000). The Impact of Technology on Educational Equivalency: Capabilities Based Educational Equivalency (CBEE) Units. Educational Technology, 40(6), 49-54. [https://doi.org/10.1080/08923640009527063](https://doi.org/10.1080/08923640009527063)
+Watkins, R. and Schlosser, C. (2000). The Impact of Technology on Educational Equivalency: Capabilities Based Educational Equivalency (CBEE) Units. Educational Technology, 40(6), 49-54.
 
 Watkins, R., Kaufman, R., and Leigh, D. (2000). A Scientific Dialogue: A performance accomplishment code of professional conduct. Performance Improvement Journal, 39(4), 17-22. [https://doi.org/10.1002/pfi.4140390408](https://doi.org/10.1002/pfi.4140390408)
 
@@ -626,19 +626,19 @@ Kaufman, R. and Watkins, R. (2000) Getting Serious About Results and Payoffs: We
 
 Watkins, R., Leigh, D. And Kaufman, R. (1998). Needs Assessment: A digest, review, and comparison of needs assessment literature. Performance Improvement Journal,37(7), 40-53. [https://doi.org/10.1002/pfi.4140370711](https://doi.org/10.1002/pfi.4140370711)
 
-Watkins, R. (1998). Is Distance Learning Right for Your Organization? ISPI Global Network Chapter. Available: [http://www.pignc-ispi.com/articles/distance/isdistance.htm[July](http://www.pignc-ispi.com/articles/distance/isdistance.htm[July) 10, 1998]. [https://doi.org/10.1108/lcd.1998.10206jab.003)
+Watkins, R. (1998). Is Distance Learning Right for Your Organization? ISPI Global Network Chapter. Available: July 10, 1998.
 
 Muir, M., Watkins, R., Kaufman, R., And Leigh, D. (1998). Costs-Consequences Analysis: A primer. Performance Improvement Journal, 37(4), 8-17. [https://doi.org/10.1002/pfi.4140370405](https://doi.org/10.1002/pfi.4140370405)
 
-Watkins, R. (1997; November) Assessment of Florida Government Cost Savings Reported by Florida TaxWatch. Tallahassee, FL: Florida TaxWatch Incorporated. [https://doi.org/10.21474/ijar01/6660](https://doi.org/10.21474/ijar01/6660)
+Watkins, R. (1997; November) Assessment of Florida Government Cost Savings Reported by Florida TaxWatch. Tallahassee, FL: Florida TaxWatch Incorporated.
 
 Watkins, R. and Kaufman, R. (1996). An Update on Relating Needs Assessment and Needs Analysis. Performance Improvement Journal, 35(10), 10-13. [https://doi.org/10.1002/pfi.4170351005](https://doi.org/10.1002/pfi.4170351005)
 
-Triner, D.,Greenberry, A. and Watkins, R. (1996). Training Needs Assessment: A Contradiction in Terms. Educational Technology, 36(6), 51-55. [https://doi.org/10.4324/9780203962701-18](https://doi.org/10.4324/9780203962701-18)
+Triner, D.,Greenberry, A. and Watkins, R. (1996). Training Needs Assessment: A Contradiction in Terms. Educational Technology, 36(6), 51-55.
 
-Hall, J., Sprague, D. and Watkins, R. (1995; August). Florida’s Job Training Programs: What is the return on taxpayers’ investment? Tallahassee, Fl: Florida TaxWatch Incorporated. [https://doi.org/10.25082/swsw.2020.01.002](https://doi.org/10.25082/swsw.2020.01.002)
+Hall, J., Sprague, D. and Watkins, R. (1995; August). Florida’s Job Training Programs: What is the return on taxpayers’ investment? Tallahassee, Fl: Florida TaxWatch Incorporated.
 
-Crispo, N., Wenner, K. and Watkins, R. (1995; March). Rounding Unemployment Tax to Fourth Digit Adds Accuracy for Government and Taxpayers Alike. Tallahassee, FL: Florida TaxWatch Incorporated. [https://doi.org/10.35256/sp58](https://doi.org/10.35256/sp58)
+Crispo, N., Wenner, K. and Watkins, R. (1995; March). Rounding Unemployment Tax to Fourth Digit Adds Accuracy for Government and Taxpayers Alike. Tallahassee, FL: Florida TaxWatch Incorporated.
 
 Kaufman, R., Keller, J. and Watkins, R. (1995). What Works and What Doesn’t: Evaluation beyond Kirkpatrick. Performance and Instruction, 35(2), 8-12. [https://doi.org/10.1002/pfi.4170350204](https://doi.org/10.1002/pfi.4170350204)
 
@@ -649,7 +649,7 @@ Watkins, R. (2024). Curating Content for Course Chatbots: Ethical Considerations
 
 Watkins, R., Barak-Medina, E., & Pugh, K. B. (2024). Is AI Hijacking Our Agency?. [https://doi.org/10.31219/osf.io/8bpaq](https://doi.org/10.31219/osf.io/8bpaq) (Medium and OSF)
 
-Watkins, R. (2023). [From AI to A+: Prepare Your Students for Using ChatGPT and other AI](https://medium.com/@rwatkins_7167/curating-content-for-course-chatbots-df15ce479a75?sharedUserId=rwatkins_7167). Medium.
+Watkins, R. (2023). From AI to A+: Prepare Your Students for Using ChatGPT and other AI. Medium.
 
 Watkins, R. & Feuer, M. (2023). AI challenges: Practical and Theoretical. Advancing and Evaluating the Societal Impact of Science (AESIS).
 
@@ -1001,7 +1001,7 @@ Service Award, International Society for Performance Improvement (2004).
 
 Ruby Diamond Professor of Instructional Development and Technology Award for Excellent Performance in the Instructional Systems Design Doctorate Program from the Department of Educational Research at Florida State University.
 
-E-learning Readiness (2004): NPR's Kojo Nnamdi Show, [http://www.wamu.org/ram/2004/k1040921.ram](http://www.wamu.org/ram/2004/k1040921.ram) ; WUSA News ; interviewed on ABC and CNN Financial.
+E-learning Readiness (2004): NPR's Kojo Nnamdi Show; WUSA News; interviewed on ABC and CNN Financial.
 
 
 ## Professional Affiliations
