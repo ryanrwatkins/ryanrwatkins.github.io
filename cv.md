@@ -218,6 +218,8 @@ Watkins, R. (2003). High Impact Results: Implementer's companion for Strategic P
 
 ### Parsing Science Podcast
 
+Leigh, D., Watkins, R., & Kelly, R.. (2021, June 11). Parsing Science - Science Writing as Storytelling (rebroadcast). figshare. [DOI](https://doi.org/10.6084/m9.figshare.14773620)
+
 Watkins, R., Leigh, D., & Christ, A.. (2021). Parsing Science - Cold War Ice Core Reveals Historic Glacial Melt. doi: [DOI](https://doi.org/10.6084/m9.figshare.14593743)
 
 Leigh, D., Watkins, R., & Teixeira, J.. (2021). Parsing Science – DNA Evidence of Denisovan Interbreeding. doi: [DOI](https://doi.org/10.6084/m9.figshare.14462403)
@@ -269,6 +271,8 @@ Watkins, R., Leigh, D., & Ho, E.. (2020). Parsing Science – When Ignorance is
 Leigh, D., Watkins, R., & J. Field, D.. (2020). Parsing Science – Birds’ Evolution Across Mass Extinctions. doi: [DOI](https://doi.org/10.6084/m9.figshare.12440495)
 
 Leigh, D., Watkins, R., & Bastos, A.. (2020). Parsing Science – Parroting Probabilities. doi: [DOI](https://doi.org/10.6084/m9.figshare.12307394)
+
+Leigh, D., Watkins, R., & Rasphone, A.. (2020, April 16). Parsing Science - The Plight of the Tiger. figshare. [DOI](https://doi.org/10.6084/m9.figshare.12137001)
 
 Watkins, R., Leigh, D., Coughenour, C., & Pharr, J.. (2020). Parsing Science - Anything but Pedestrian. figshare. [DOI](https://doi.org/10.6084/m9.figshare.12221009)
 
