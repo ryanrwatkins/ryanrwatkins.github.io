@@ -218,6 +218,8 @@ Watkins, R. (2003). High Impact Results: Implementer's companion for Strategic P
 
 ### Parsing Science Podcast
 
+[Listen to episodes](https://parsing-science-pod.github.io/)
+
 Leigh, D., Watkins, R., & Kelly, R.. (2021, June 11). Parsing Science - Science Writing as Storytelling (rebroadcast). figshare. [DOI](https://doi.org/10.6084/m9.figshare.14773620)
 
 Watkins, R., Leigh, D., & Christ, A.. (2021). Parsing Science - Cold War Ice Core Reveals Historic Glacial Melt. doi: [DOI](https://doi.org/10.6084/m9.figshare.14593743)
