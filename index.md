@@ -27,6 +27,8 @@ My current work focuses on trustworthy AI, human-technology collaboration, educa
 
 ## Recent Publications
 
+Watkins, R., and Jorgenson, H. (2027). LLMs in Research: Opportunities, Risks, and Ethics in the Age of AI-Augmented Science. In: Medsker, L. (eds) *AI and Ethics Handbook*. Springer, Cham. [DOI](https://doi.org/10.1007/978-3-032-12201-8_33)
+
 Homma, K., Shittu, E., & Watkins, R. (2025). Research ethics in STEM education at universities: a scoping review. *Journal of Academic Ethics*. [DOI](https://doi.org/10.1007/s10805-025-09608-0)
 
 Watkins, R., & Barak-Medina, E. (2024). AI's Influence on Human Creative Agency. *Creativity Research Journal*, 1-13. [DOI](https://doi.org/10.1080/10400419.2024.2437264)
