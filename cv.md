@@ -29,7 +29,7 @@ Bachelor of Science, Secondary Mathematics Education, May of 1994: Florida State
 #### Additional Training
 
 
-* Facilitating Entering Mentoring facilitator training, Center for the Improvement of Mentored Experiences in Research (CIMER), University of Wisconsin-Madison (2026)
+* Facilitating Entering Mentoring facilitator training, Center for the Improvement of Mentored Experiences in Research (CIMER), Washington DC (2026)
 
 * Fundamentals of AI Agents ( HuggingFace )
 
