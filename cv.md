@@ -29,6 +29,8 @@ Bachelor of Science, Secondary Mathematics Education, May of 1994: Florida State
 #### Additional Training
 
 
+* Facilitating Entering Mentoring facilitator training, Center for the Improvement of Mentored Experiences in Research (CIMER), University of Wisconsin-Madison (2026)
+
 * Fundamentals of AI Agents ( HuggingFace )
 
 * Open Science + Research Software Engineering ( URSSI )
@@ -497,7 +499,7 @@ Kaufman, R. and Watkins, R. (1996). Cost-Consequences Analysis. Human Resources 
 ### Chapters in Books
 
 
-Watkins, R., and Jorgenson, H. (in press). LLMs in Research: Opportunities, Risks, and Ethics. In Medsker, L (Ed.) (in press) AI and Ethics Handbook. 
+Watkins, R., and Jorgenson, H. (2027). LLMs in Research: Opportunities, Risks, and Ethics in the Age of AI-Augmented Science. In: Medsker, L. (eds) AI and Ethics Handbook. Springer, Cham. [DOI](https://doi.org/10.1007/978-3-032-12201-8_33)
 
 Faruqe, F., Medsker, L., Watkins, R. (2023). ATIAS: A Model for Understanding Intentions to Use AI Technology. In: Daimi, K., Alsadoon, A., Coelho, L. (eds) Cutting Edge Applications of Computational Intelligence Tools and Techniques. Studies in Computational Intelligence, vol 1118. Springer, Cham. [DOI](https://doi.org/10.1007/978-3-031-44127-1_5)
 
