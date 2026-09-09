@@ -972,6 +972,8 @@ Watkins, R. (October, 1996). Needs Assessment. Dayton Beach, FL: Florida Departm
 
 ## Funded Research Grants
 
+A Sociotechnical Sandbox for evaluating alternative workflows, governance strategies and trust metrics. Co-PI with Zoe Szajnfarber. Funded for 2026 - 2027.
+
 The Design Decisions that Make LLM Development Projects Open, Secure, and Trustworthy. Co-PI with Amir Jafari, Zoe Szajnfarber, David Lippert. Funded by the National Science Foundation and National Institute of Standards and Technology for 2024 - 2025 (competitive sub-award #2229885 )
 
 Co-Design of Trustworthy AI and Future Work Systems. Co-Investigator Internal Evaluator. Funded by the National Science Foundation for 2021 - 2026 ( Award #2125677 ) Security and Privacy Implications of Remote Proctoring for School Policies and Practices. Co-PI with Adam Aviv and Micah Sherr. Funded by the National Science Foundation for 2022 - 2024 ( Award #2138654 )
