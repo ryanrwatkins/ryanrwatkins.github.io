@@ -972,11 +972,13 @@ Watkins, R. (October, 1996). Needs Assessment. Dayton Beach, FL: Florida Departm
 
 ## Funded Research Grants
 
-A Sociotechnical Sandbox for evaluating alternative workflows, governance strategies and trust metrics. Co-PI with Zoe Szajnfarber. Funded for 2026 - 2027.
+A Sociotechnical Sandbox for evaluating alternative workflows, governance strategies and trust metrics. Co-PI with Zoe Szajnfarber. Funded by the National Science Foundation and National Institute of Standards and Technology for 2026 - 2027 (competitive sub-award of #2229885 ) 
 
-The Design Decisions that Make LLM Development Projects Open, Secure, and Trustworthy. Co-PI with Amir Jafari, Zoe Szajnfarber, David Lippert. Funded by the National Science Foundation and National Institute of Standards and Technology for 2024 - 2025 (competitive sub-award #2229885 )
+The Design Decisions that Make LLM Development Projects Open, Secure, and Trustworthy. Co-PI with Amir Jafari, Zoe Szajnfarber, David Lippert. Funded by the National Science Foundation and National Institute of Standards and Technology for 2024 - 2025 (competitive sub-award of #2229885 )
 
-Co-Design of Trustworthy AI and Future Work Systems. Co-Investigator Internal Evaluator. Funded by the National Science Foundation for 2021 - 2026 ( Award #2125677 ) Security and Privacy Implications of Remote Proctoring for School Policies and Practices. Co-PI with Adam Aviv and Micah Sherr. Funded by the National Science Foundation for 2022 - 2024 ( Award #2138654 )
+Co-Design of Trustworthy AI and Future Work Systems. Co-Investigator, Internal Evaluator. Funded by the National Science Foundation for 2021 - 2026 ( Award #2125677 ) 
+
+Security and Privacy Implications of Remote Proctoring for School Policies and Practices. Co-PI with Adam Aviv and Micah Sherr. Funded by the National Science Foundation for 2022 - 2024 ( Award #2138654 )
 
 A Digital Nudge: Assessing the Impact of an Immutable Records Data Management Platform on Student Researcher Ethics. Co-PI with Ekundayo Shittu, Chung Hyuk Park, Payman Dehghanian, and Hiromi Sanders. Funded by the National Science Foundation for 2022 - 2024 ( Award #2124866 )
 
@@ -984,13 +986,15 @@ GW Coders. Co-PI with John Helveston. Funded by the New America and Ford Foundat
 
 The Code Maker: Computational Thinking for Engineers with Interactive, Contextual Learning. Co-PI with Lorena Barba and Adam Wickenheiser. Funded by the National Science Foundation for 2017 - 2021. ( Award #1730170 )
 
-Transformative Research in Urban Sustainability Training. Co-Investigator external evaluator. Funded by the National Science Foundation 2017 - 2022 with Donna Kashian at Wayne State University as PI. ( Award #1735038 ) Event Based Surveillance Curriculum Development and Training. Co-PI with Dr. Katz as Principal Investigator. Funded by the Skoll Foundation for 2015 & 2016.
+Transformative Research in Urban Sustainability Training. Co-Investigator external evaluator. Funded by the National Science Foundation 2017 - 2022 with Donna Kashian at Wayne State University as PI. ( Award #1735038 ) 
 
-Performance Monitoring and Evaluation of the Health Information Technology (HIT) University Training Grant. Co-PI with Dr. Burke as Principal Investigator. Funded by the American Recovery and Reinvestment Act (ARRA) for 2010 - 2013.
+Event Based Surveillance: Curriculum Development and Training. Co-PI with Dr. Katz as PI. Funded by the Skoll Foundation for 2015 - 2016.
+
+Performance Monitoring and Evaluation of the Health Information Technology (HITech) University Training Grant. Co-PI with Dr. Burke as PI. Funded by the American Recovery and Reinvestment Act (ARRA) for 2010 - 2013.
 
 Leading Innovation through Technology E-Assessment (LITE): The GSEHD Pilot Assessment of Technology and Information Literacy Integration Research Project. Co-PI with Drs. Milman, Molasso, and Corry. Funded by the Department of Educational Research, GSEHD for 2010.
 
-Visiting Scholar (IPA) grant with the National Science Foundation. 2005-2006.
+Visiting Scholar (IPA) grant with the National Science Foundation. 2005 - 2006.
 
 E-learning Orientation: Preparing distance learning students at GSEHD for success. PI. Funded by the Graduate School of Education and Human Services for 2004.
 
