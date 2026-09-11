@@ -498,6 +498,7 @@ Kaufman, R. and Watkins, R. (1996). Cost-Consequences Analysis. Human Resources 
 
 ### Chapters in Books
 
+Watkins, R. & Lee, V. (submitted). Documenting the Use of LLMs in Scientific Research: Guidance on ethical, transparent, and reproducible reporting.
 
 Watkins, R., and Jorgenson, H. (2027). LLMs in Research: Opportunities, Risks, and Ethics in the Age of AI-Augmented Science. In: Medsker, L. (eds) AI and Ethics Handbook. Springer, Cham. [DOI](https://doi.org/10.1007/978-3-032-12201-8_33)
 
@@ -736,7 +737,6 @@ Watkins, R. (2004). Ends and Means: Performance and performing. Distance Learnin
 
 ### In Preparation
 
-Watkins, R. & Lee, V. (in preparation). Documenting the Use of LLMs in Scientific Research: Guidance on ethical, transparent, and reproducible reporting.
 
 Watkins, R. (in preparation). Needs Assessment: A Framework for Research and Theory.
 
