@@ -439,13 +439,13 @@ Homma, K., Shittu, E., & Watkins, R. (2025). Research ethics in STEM education a
 
 Shioji, E., Meliksetyan, A., Simko, L, Watkins, R., Aviv, A. & Cohney, S. (2025, May) “It’s been lovely watching you”: Institutional Decision-Making on Online Proctoring Software. IEEE Symposium on Security and Privacy 2025.
 
-Watkins, R., & Barak-Medina, E. (2024). AI’s Influence on Human Creative Agency. Creativity Research Journal, 1–13. [DOI](https://doi.org/10.1080/10400419.2024.2437264)
+Watkins, R., & Barak-Medina, E. (2024). AI’s Influence on Human Creative Agency. Creativity Research Journal, 1–13. [DOI](https://doi.org/10.1080/10400419.2024.2437264) [preprint](https://osf.io/preprints/osf/md5ef_v1)
 
-Watkins, R. (2023). Guidance for researchers and peer‑reviewers on the ethical use of Large Language Models (LLMs) in scientific research workflows. AI and Ethics. [DOI](https://doi.org/10.1007/s43681-023-00294-5)
+Watkins, R. (2023). Guidance for researchers and peer‑reviewers on the ethical use of Large Language Models (LLMs) in scientific research workflows. AI and Ethics. [DOI](https://doi.org/10.1007/s43681-023-00294-5) [preprint](https://osf.io/preprints/osf/6uh8p_v1)
 
-Human, S. and Watkins, R.  (2022). Needs and Artificial Intelligence. AI and Ethics. [DOI](https://doi.org/10.1007/s43681-022-00206-z) [preprint arXiv or epub.wu.ac.at]
+Human, S. and Watkins, R.  (2022). Needs and Artificial Intelligence. AI and Ethics. [DOI](https://doi.org/10.1007/s43681-022-00206-z) [preprint arXiv or epub.wu.ac.at] [preprint](https://arxiv.org/abs/2203.03715)
 
-Watkins, R., Human, S. (2022). Needs -aware artificial intelligence: AI that ‘serves [human] needs’. AI and Ethics. [DOI](https://doi.org/10.1007/s43681-022-00181-5) [preprint arXiv ]
+Watkins, R., Human, S. (2022). Needs -aware artificial intelligence: AI that ‘serves [human] needs’. AI and Ethics. [DOI](https://doi.org/10.1007/s43681-022-00181-5) [preprint]
 
 Wallen, M.M., Guerra-Lopez, I., Meroueh, L., Mohamed, R., Sankar, A., Sopory, P., Watkins, R., and Kashian, D.R. (2022). Designing and Implementing a Novel Graduate Program to Develop Transdisciplinary Leaders in Urban Sustainability. Ecosphere doi: [DOI](https://doi.org/10.1002/ecs2.3901)
 
@@ -498,7 +498,7 @@ Kaufman, R. and Watkins, R. (1996). Cost-Consequences Analysis. Human Resources 
 
 ### Chapters in Books
 
-Watkins, R. & Lee, V. (submitted). Toward Reproducible Research with LLMs: Guidance for Documentation, Reporting, and Transparency. Sage Research Methods Handbook: Using AI for Research. 
+Watkins, R. & Lee, V. (accepted). Toward Reproducible Research with LLMs: Guidance for Documentation, Reporting, and Transparency. Sage Research Methods Handbook: Using AI for Research. [preprint](https://osf.io/preprints/metaarxiv/8g7ja_v1)
 
 Watkins, R., and Jorgenson, H. (2027). LLMs in Research: Opportunities, Risks, and Ethics in the Age of AI-Augmented Science. In: Medsker, L. (eds) AI and Ethics Handbook. Springer, Cham. [DOI](https://doi.org/10.1007/978-3-032-12201-8_33)
 
