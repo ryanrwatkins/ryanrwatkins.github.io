@@ -20,10 +20,12 @@ My current work focuses on trustworthy AI, human-technology collaboration, educa
 * Professor in Educational Technology Leadership and Program Director for the Human-Technology Collaboration Ph.D. program at George Washington University.
 * Author and co-author of work on large language models in research workflows, needs-aware artificial intelligence, human needs and AI, and AI's influence on human creative agency.
 * Contributor to open educational resources and development guides, including *Teaching and Learning with Jupyter*, *A Guide to Assessing Needs*, and multiple World Bank knowledge exchange guides.
-* Developer of research and learning platforms including [Synthetic Prediction Markets Platform](https://pmp.weshareresearch.com), [PreprintScout](https://pypi.org/project/preprintscout/), [We Share Research](https://weshareresearch.com), and [We Share Science](https://wesharescience.com).
+* Developer of research and learning platforms including [LLM in Science](https://llminscience.com/), [Synthetic Prediction Markets Platform](https://pmp.weshareresearch.com), [PreprintScout](https://pypi.org/project/preprintscout/), [We Share Research](https://weshareresearch.com), and [We Share Science](https://wesharescience.com).
 * Co-host and producer of the Parsing Science podcast.
 
 ## Recent Publications
+
+Watkins, R., & Lee, V. (accepted). Toward Reproducible Research with LLMs: Guidance for Documentation, Reporting, and Transparency. *Sage Research Methods Handbook: Using AI for Research*. [Preprint](https://osf.io/preprints/metaarxiv/8g7ja_v1)
 
 Watkins, R., and Jorgenson, H. (2027). LLMs in Research: Opportunities, Risks, and Ethics in the Age of AI-Augmented Science. In: Medsker, L. (eds) *AI and Ethics Handbook*. Springer, Cham. [DOI](https://doi.org/10.1007/978-3-032-12201-8_33)
 

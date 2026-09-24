@@ -197,13 +197,13 @@ Kaufman, R., Watkins, R., and Leigh, D. (2001). Useful Educational Results: Defi
 
 [Projects done in: Python, PHP, Javascript; many coding projects available on GitHub ]
 
+Watkins, R. (2023). [LLM in Science](https://llminscience.com/). (a clearinghouse for resources on LLM use in scientific workflows)
+
 Watkins, R. (2025). [Synthetic Prediction Markets Platform](https://pmp.weshareresearch.com). (a platform for agent-based prediction market research)
 
 Watkins, R. (2024). [PreprintScout](https://pypi.org/project/preprintscout/). (an open source Python package)
 
 Watkins, R. (2023). [We Share Research](https://weshareresearch.com). (a LLM-based recommender system for research articles)
-
-Watkins, R. (2023). LLM in Science. (a clearinghouse for resources on LLM use in scientific workflows -- currently down for updates)
 
 Watkins, R., Banson, J., Kumar Parekh, P. (2022). [Code2Learn Tutorials](https://tutorials.weshareresearch.com). (coding project tutorials)
 
