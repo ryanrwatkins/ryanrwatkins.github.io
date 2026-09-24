@@ -16,7 +16,7 @@ format:
 ---
 
 ::: {.content-visible when-format="html"}
-[Download CV as PDF](cv.pdf){.btn .btn-outline-primary .cv-pdf-link role="button"}
+[Download CV as PDF](cv.pdf){.btn .btn-outline-primary .cv-pdf-link role="button" target="_blank" rel="noopener"}
 :::
 
 ## Education
