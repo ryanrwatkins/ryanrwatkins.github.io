@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - cv.qmd
+    - bios.qmd
+
+website:
+  title: "Ryan Watkins, Ph.D."
+  description: "Professor of Educational Technology Leadership and Associate Director of GW Trustworthy AI."
+  site-url: "https://ryanrwatkins.github.io"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: cv.qmd
+        text: Full CV
+      - href: bios.qmd
+        text: Bios
+    right:
+      - href: https://gsehd.gwu.edu/directory/ryan-watkins
+        text: GWU
+      - href: https://scholar.google.com/citations?user=heVXyrAAAAAJ&hl=en
+        text: Google Scholar
+      - href: https://github.com/ryanrwatkins
+        text: GitHub
+  page-footer:
+    left: "Ryan Watkins, Ph.D."
+    right: "[Full CV](cv.qmd) | [Bios](bios.qmd)"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-location: right
+    anchor-sections: true
+    smooth-scroll: true

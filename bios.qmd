@@ -3,9 +3,7 @@ title: "Ryan Watkins Bios"
 description: "Short and extended bios for Ryan Watkins, Ph.D."
 ---
 
-# Ryan Watkins Bios
-
-[Home](index.md) \| [Full CV](cv.md) \| [GWU Website](https://gsehd.gwu.edu/directory/ryan-watkins) \| [Google Scholar](https://scholar.google.com/citations?user=heVXyrAAAAAJ&hl=en) \| [GitHub Repos](https://github.com/ryanrwatkins)
+[Home](index.qmd) | [Full CV](cv.qmd) | [GWU Website](https://gsehd.gwu.edu/directory/ryan-watkins) | [Google Scholar](https://scholar.google.com/citations?user=heVXyrAAAAAJ&hl=en) | [GitHub Repos](https://github.com/ryanrwatkins)
 
 ## One-Line Bio
 
@@ -46,7 +44,7 @@ George Washington University
 
 ## Links
 
-* [Full CV](cv.md)
+* [Full CV](cv.qmd)
 * [GWU Website](https://gsehd.gwu.edu/directory/ryan-watkins)
 * [Google Scholar](https://scholar.google.com/citations?user=heVXyrAAAAAJ&hl=en)
 * [GitHub Repos](https://github.com/ryanrwatkins)
