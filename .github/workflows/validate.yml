@@ -1,0 +1,29 @@
+name: Validate Quarto site
+
+on:
+  pull_request:
+    branches: [master]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Render site and CV PDF
+        run: quarto render
+
+      - name: Verify rendered files
+        run: |
+          test -f _site/index.html
+          test -f _site/cv.html
+          test -f _site/cv.pdf
+          test -f _site/bios.html

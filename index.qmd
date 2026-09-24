@@ -3,14 +3,12 @@ title: "Ryan Watkins, Ph.D."
 description: "Professor, Educational Technology Leadership | Associate Director, GW Trustworthy AI <br> George Washington University"
 ---
 
-# Ryan Watkins, Ph.D.
-
 Professor, Educational Technology Leadership  
 Program Director, Human-Technology Collaboration Ph.D.  
 Associate Director, GW Trustworthy AI  
 George Washington University
 
-[Full CV](cv.md) \| [Bios](bios.md) \| [GWU Website](https://gsehd.gwu.edu/directory/ryan-watkins) \| [Google Scholar](https://scholar.google.com/citations?user=heVXyrAAAAAJ&hl=en) \| [GitHub Repos](https://github.com/ryanrwatkins)
+[Full CV](cv.qmd) | [Bios](bios.qmd) | [GWU Website](https://gsehd.gwu.edu/directory/ryan-watkins) | [Google Scholar](https://scholar.google.com/citations?user=heVXyrAAAAAJ&hl=en) | [GitHub Repos](https://github.com/ryanrwatkins)
 
 ## Current Focus
 
@@ -49,6 +47,6 @@ Watkins, R., West Meiers, M. and Visser, Y. (2012). [A Guide to Assessing Needs:
 
 ## For Event Organizers
 
-Reusable bios are available on the [Bios](bios.md) page, including short, medium, and longer versions for programs, introductions, and event materials.
+Reusable bios are available on the [Bios](bios.qmd) page, including short, medium, and longer versions for programs, introductions, and event materials.
 
-The full academic and professional record is available as a [CV](cv.md).
+The full academic and professional record is available as a [CV](cv.qmd).

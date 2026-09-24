@@ -3,3 +3,11 @@ PLANNING.md
 TASKS.md
 SCRATCHPAD.md
 PROBLEMS_TBD.md
+
+_site/
+.quarto/
+.venv/
+__pycache__/
+*.log
+*.tex
+**/*.quarto_ipynb
