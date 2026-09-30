@@ -3,8 +3,26 @@ title: "Research Map"
 description: "A living map of research themes, methods, technologies, and domains."
 ---
 
-This interactive map represents research that has caught my attention across my reading. Papers are connected through recurring concepts, methods, technologies, and domains. It is intended as a living representation of my evolving research interests rather than a systematic review of any field.
+This interactive map represents research that has caught my attention across my reading. Papers are grouped and connected based on semantic similarity in their titles and abstracts, providing a living view of the themes and connections shaping my research interests rather than a systematic review of any field.
 
-<iframe class="research-graph-frame" src="research-graph/index.html" title="Interactive research knowledge graph" loading="lazy"></iframe>
+<div id="research-map-summary" class="research-map-summary" aria-live="polite"></div>
 
-{{< include research-summary.md >}}
+<div class="research-map-controls" aria-label="Research map controls">
+  <label for="research-map-search">Search</label>
+  <input id="research-map-search" type="search" placeholder="Paper title or topic">
+  <label for="research-map-topic-filter">Topic</label>
+  <select id="research-map-topic-filter">
+    <option value="">All topics</option>
+  </select>
+  <button id="research-map-reset" type="button">Reset view</button>
+</div>
+
+<div class="research-map-layout">
+  <div id="research-map-canvas" class="research-map-canvas" aria-label="Interactive research map"></div>
+  <aside id="research-map-details" class="research-map-details" aria-live="polite">
+    Select a paper or topic to inspect it.
+  </aside>
+</div>
+
+<link rel="stylesheet" href="research-map/graph.css">
+<script type="module" src="research-map/graph.js"></script>

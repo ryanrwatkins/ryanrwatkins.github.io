@@ -28,3 +28,6 @@ jobs:
           test -f _site/cv.pdf
           test -f _site/bios.html
           test -f _site/research.html
+          test -f _site/research-map/research_graph.json
+          test -f _site/research-map/research_summary.json
+          test -f _site/research-map/graph.js

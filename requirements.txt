@@ -1,0 +1,10 @@
+bertopic>=0.17,<0.18
+hdbscan>=0.8.40,<0.9
+networkx>=3.4,<4
+numpy>=2.0,<3
+pandas>=2.2,<4
+plotly>=5,<8
+pyyaml>=6,<7
+requests>=2.32,<3
+scikit-learn>=1.5,<2
+tqdm>=4.60,<5
