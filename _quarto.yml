@@ -7,7 +7,7 @@ project:
     - cv.qmd
     - bios.qmd
   resources:
-    - research-graph/
+    - research-map/
 
 website:
   title: "Ryan Watkins, Ph.D."

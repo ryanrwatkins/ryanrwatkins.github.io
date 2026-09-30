@@ -12,12 +12,8 @@ __pycache__/
 *.tex
 **/*.quarto_ipynb
 
-# Engram's tracked graph artifact is a reviewed, deployable source. Its cache,
-# local review state, and generated local Studio source are reproducible.
-.engram/cache/
-.engram/converted/
-.engram/ontology/
-.engram/profile/
-.engram/studio/
-.engram/transcripts/
-.engram/wiki/
+# Local research-map embedding cache. Generated graph and browser assets remain tracked.
+.cache/research-map/
+node_modules/
+
+/.quarto/
