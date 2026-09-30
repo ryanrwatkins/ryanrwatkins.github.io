@@ -6760,7 +6760,13 @@ function selectNode(nodeId) {
   if (!node) return;
   if (node.type === "Paper") showPaperDetails(node);
   else showTopicDetails(node);
-  renderer.getCamera().animate({ x: node.x, y: node.y, ratio: 0.55 }, { duration: 280 });
+  const displayNode = renderer.getNodeDisplayData(nodeId);
+  if (!displayNode) return;
+  const camera = renderer.getCamera();
+  camera.animate(
+    { x: displayNode.x, y: displayNode.y, ratio: camera.getState().ratio },
+    { duration: 280 }
+  );
 }
 function applyFilters() {
   const query = searchInput.value.trim().toLocaleLowerCase();
