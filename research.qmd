@@ -1,0 +1,10 @@
+---
+title: "Research Map"
+description: "A living map of research themes, methods, technologies, and domains."
+---
+
+This interactive map represents research that has caught my attention across my reading. Papers are connected through recurring concepts, methods, technologies, and domains. It is intended as a living representation of my evolving research interests rather than a systematic review of any field.
+
+<iframe class="research-graph-frame" src="research-graph/index.html" title="Interactive research knowledge graph" loading="lazy"></iframe>
+
+{{< include research-summary.md >}}

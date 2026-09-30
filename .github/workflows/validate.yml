@@ -27,3 +27,4 @@ jobs:
           test -f _site/cv.html
           test -f _site/cv.pdf
           test -f _site/bios.html
+          test -f _site/research.html
