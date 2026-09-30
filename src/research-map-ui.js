@@ -45,7 +45,11 @@ function showPaperDetails(paper) {
   if (related.length) {
     details.append(element("h3", {textContent: "Related papers"}));
     const list = element("ul");
-    related.forEach((relatedPaper) => list.append(element("li", {textContent: relatedPaper.title})));
+    related.forEach((relatedPaper) => {
+      const item = element("li");
+      item.append(paperLink(relatedPaper));
+      list.append(item);
+    });
     details.append(list);
   }
 }
@@ -102,7 +106,7 @@ function populateTopics(summary) {
 }
 
 function renderSummary(summary) {
-  summaryElement.textContent = `${summary.paper_count} papers, ${summary.topic_count} topic groups, ${summary.unclustered_paper_count} papers outside a stable cluster, and ${summary.similarity_edge_count} semantic connections. The map is generated locally from titles and abstracts using qwen3-embedding.`;
+  summaryElement.textContent = `${summary.paper_count} papers, ${summary.topic_count} topic groups, ${summary.unclustered_paper_count} papers outside a stable cluster, and ${summary.similarity_edge_count} semantic connections.`;
 }
 
 async function initialize() {

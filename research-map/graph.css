@@ -16,8 +16,16 @@
   max-width: 16rem;
 }
 
-.research-map-layout.page-columns {
-  display: block;
+#quarto-content .research-map-layout.page-columns {
+  display: grid;
+  gap: 1.5rem;
+  grid-template-columns: minmax(0, 2.2fr) minmax(20rem, 0.8fr) !important;
+  margin: 0 auto;
+  width: 95%;
+}
+
+#quarto-content .research-map-layout.page-columns > * {
+  grid-column: auto !important;
 }
 
 .research-map-canvas {
@@ -28,11 +36,12 @@
 }
 
 .research-map-details {
-  border-left: 0;
-  border-top: 3px solid var(--rw-accent);
+  border-left: 3px solid var(--rw-accent);
+  border-top: 0;
   font-size: 0.95rem;
-  min-height: 8rem;
-  margin-top: 1rem;
+  height: clamp(34rem, 60vh, 48rem);
+  margin-top: 0;
+  overflow-y: auto;
   padding: 0.75rem 1rem;
 }
 
@@ -58,8 +67,22 @@
   color: var(--rw-muted);
 }
 
-@media (max-width: 900px) {
+@media (max-width: 1000px) {
+  #quarto-content .research-map-layout.page-columns {
+    display: block;
+    grid-template-columns: none !important;
+    width: 100%;
+  }
+
   .research-map-canvas {
     height: 32rem;
+  }
+
+  .research-map-details {
+    border-left: 0;
+    border-top: 3px solid var(--rw-accent);
+    height: auto;
+    margin-top: 1rem;
+    overflow-y: visible;
   }
 }
