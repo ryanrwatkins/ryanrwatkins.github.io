@@ -1,0 +1,13 @@
+version: 1
+
+profile:
+  path: engram/ontology-profile.yaml
+
+inputs:
+  corpus:
+    - data/research.csv
+  registries:
+    - data/research.csv
+
+dataprep:
+  citation_minimum: file

@@ -3,8 +3,11 @@ project:
   output-dir: _site
   render:
     - index.qmd
+    - research.qmd
     - cv.qmd
     - bios.qmd
+  resources:
+    - research-graph/
 
 website:
   title: "Ryan Watkins, Ph.D."
@@ -14,6 +17,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: research.qmd
+        text: Research Map
       - href: cv.qmd
         text: Full CV
       - href: bios.qmd
@@ -27,7 +32,7 @@ website:
         text: GitHub
   page-footer:
     left: "Ryan Watkins, Ph.D."
-    right: "[Full CV](cv.qmd) | [Bios](bios.qmd)"
+    right: "[Research Map](research.qmd) | [Full CV](cv.qmd) | [Bios](bios.qmd)"
 
 format:
   html:
