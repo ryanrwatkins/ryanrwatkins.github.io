@@ -32,6 +32,10 @@ body {
   max-width: 52rem;
 }
 
+#quarto-content main:has(.research-map-layout) {
+  max-width: none;
+}
+
 #quarto-content p,
 #quarto-content li {
   overflow-wrap: break-word;
@@ -55,6 +59,19 @@ body {
 
 .cv-pdf-link {
   margin-bottom: 1.25rem;
+}
+
+@media (min-width: 992px) {
+  .navbar-nav:first-child .nav-item + .nav-item {
+    align-items: center;
+    display: flex;
+  }
+
+  .navbar-nav:first-child .nav-item + .nav-item::before {
+    color: var(--rw-muted);
+    content: "|";
+    margin-right: 0.15rem;
+  }
 }
 
 @media print {

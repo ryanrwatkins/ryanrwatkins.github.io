@@ -17,12 +17,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: research.qmd
-        text: Research Map
       - href: cv.qmd
         text: Full CV
       - href: bios.qmd
         text: Bios
+      - href: research.qmd
+        text: Interests
     right:
       - href: https://gsehd.gwu.edu/directory/ryan-watkins
         text: GWU
@@ -32,7 +32,7 @@ website:
         text: GitHub
   page-footer:
     left: "Ryan Watkins, Ph.D."
-    right: "[Research Map](research.qmd) | [Full CV](cv.qmd) | [Bios](bios.qmd)"
+    right: "[Full CV](cv.qmd) | [Bios](bios.qmd) | [Interests](research.qmd)"
 
 format:
   html:

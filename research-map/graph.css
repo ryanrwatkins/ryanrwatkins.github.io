@@ -16,22 +16,23 @@
   max-width: 16rem;
 }
 
-.research-map-layout {
-  display: grid;
-  gap: 1rem;
-  grid-template-columns: minmax(0, 2fr) minmax(15rem, 1fr);
+.research-map-layout.page-columns {
+  display: block;
 }
 
 .research-map-canvas {
   border: 1px solid var(--rw-border);
-  min-height: 42rem;
+  height: clamp(34rem, 60vh, 48rem);
   position: relative;
+  width: 100%;
 }
 
 .research-map-details {
-  border-left: 3px solid var(--rw-accent);
+  border-left: 0;
+  border-top: 3px solid var(--rw-accent);
   font-size: 0.95rem;
-  min-height: 12rem;
+  min-height: 8rem;
+  margin-top: 1rem;
   padding: 0.75rem 1rem;
 }
 
@@ -58,11 +59,7 @@
 }
 
 @media (max-width: 900px) {
-  .research-map-layout {
-    grid-template-columns: 1fr;
-  }
-
   .research-map-canvas {
-    min-height: 32rem;
+    height: 32rem;
   }
 }
