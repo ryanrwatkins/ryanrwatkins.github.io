@@ -441,21 +441,21 @@ Faruque, F., Watkins, R., Medsker, L. (2020). Monitoring Trust in Human-Machine 
 
 Liu, S., Chu, C., Grey, B., Grim, P., Hall, A., Watkins, R. (submitted). Exploring the Impact of Generative AI on Student Problem-Solving in Computer Programming Labs. ACM Transactions on Computing Education (TOCE)
 
-Homma, K., Shittu, E., & Watkins, R. (2025). Research ethics in STEM education at universities: a scoping review. Journal of Academic Ethics. [DOI](https://doi.org/10.1007/s10805-025-09608-0)
+Homma, K., Shittu, E., & Watkins, R. (2025). Research ethics in STEM education at universities: a scoping review. Journal of Academic Ethics. 23, 1457–1487 [DOI](https://doi.org/10.1007/s10805-025-09608-0)
 
-Shioji, E., Meliksetyan, A., Simko, L, Watkins, R., Aviv, A. & Cohney, S. (2025, May) “It’s been lovely watching you”: Institutional Decision-Making on Online Proctoring Software. IEEE Symposium on Security and Privacy 2025.
+Shioji, E., Meliksetyan, A., Simko, L, Watkins, R., Aviv, A. & Cohney, S. (2025, May) “It’s been lovely watching you”: Institutional Decision-Making on Online Proctoring Software. IEEE Symposium on Security and Privacy 2025. 2790-2808
 
-Watkins, R., & Barak-Medina, E. (2024). AI’s Influence on Human Creative Agency. Creativity Research Journal, 1–13. [DOI](https://doi.org/10.1080/10400419.2024.2437264) [preprint](https://osf.io/preprints/osf/md5ef_v1)
+Watkins, R., & Barak-Medina, E. (2024). AI’s Influence on Human Creative Agency. Creativity Research Journal, 38 (1), 137-149. [DOI](https://doi.org/10.1080/10400419.2024.2437264) [preprint](https://osf.io/preprints/osf/md5ef_v1)
 
-Watkins, R. (2023). Guidance for researchers and peer‑reviewers on the ethical use of Large Language Models (LLMs) in scientific research workflows. AI and Ethics. [DOI](https://doi.org/10.1007/s43681-023-00294-5) [preprint](https://osf.io/preprints/osf/6uh8p_v1)
+Watkins, R. (2023). Guidance for researchers and peer‑reviewers on the ethical use of Large Language Models (LLMs) in scientific research workflows. AI and Ethics. 4 (4), 969-974. [DOI](https://doi.org/10.1007/s43681-023-00294-5) [preprint](https://osf.io/preprints/osf/6uh8p_v1)
 
-Human, S. and Watkins, R.  (2022). Needs and Artificial Intelligence. AI and Ethics. [DOI](https://doi.org/10.1007/s43681-022-00206-z) [preprint arXiv or epub.wu.ac.at] [preprint](https://arxiv.org/abs/2203.03715)
+Human, S. and Watkins, R.  (2022). Needs and Artificial Intelligence. AI and Ethics. 3 (3), 811-826. [DOI](https://doi.org/10.1007/s43681-022-00206-z) [preprint arXiv or epub.wu.ac.at] [preprint](https://arxiv.org/abs/2203.03715)
 
-Watkins, R., Human, S. (2022). Needs -aware artificial intelligence: AI that ‘serves [human] needs’. AI and Ethics. [DOI](https://doi.org/10.1007/s43681-022-00181-5) [preprint]
+Watkins, R., Human, S. (2022). Needs -aware artificial intelligence: AI that ‘serves [human] needs’. AI and Ethics. 3 (1), 49-52. [DOI](https://doi.org/10.1007/s43681-022-00181-5) [preprint]
 
-Wallen, M.M., Guerra-Lopez, I., Meroueh, L., Mohamed, R., Sankar, A., Sopory, P., Watkins, R., and Kashian, D.R. (2022). Designing and Implementing a Novel Graduate Program to Develop Transdisciplinary Leaders in Urban Sustainability. Ecosphere doi: [DOI](https://doi.org/10.1002/ecs2.3901)
+Wallen, M.M., Guerra-Lopez, I., Meroueh, L., Mohamed, R., Sankar, A., Sopory, P., Watkins, R., and Kashian, D.R. (2022). Designing and Implementing a Novel Graduate Program to Develop Transdisciplinary Leaders in Urban Sustainability. Ecosphere 13(1) 1-14. doi: [DOI](https://doi.org/10.1002/ecs2.3901)
 
-Watkins, R., Corry, M., Dardick, W., and Stella, J. (2015). Note-taking Habits of Online Students: Value, Quality, and Support. Quarterly Review of Distance Education.
+Watkins, R., Corry, M., Dardick, W., and Stella, J. (2015). Note-taking Habits of Online Students: Value, Quality, and Support. Quarterly Review of Distance Education. 16 (3), 1-12.
 
 Lim, J., Dannels, S. and Watkins, R. (2009). Qualitative Investigation of Doctoral Students’ Learning Experiences in Online Research Method Courses. Quarterly Review of Distance Education. [DOI](https://doi.org/10.1108/qrde-09-2008-0001)
 
@@ -595,7 +595,7 @@ Jayawardena, M., Heijndermans, E., West Meyers, M., Watkins, R., Butscher, J., F
 
 Rubinson, C., Jayawardena, M., Watkins, R., Butscher, J., and Berrah, N. (2021). [Qualitative Comparative Analysis: Exploring Causal Links for Scaling Up Investments in Renewable Energy](https://openknowledge.worldbank.org/entities/publication/0a79880b-0965-5ca9-9e52-ac5129ecd177). World Bank Group. 
 
-Watkins, R. (2020). Looking Back from the Future to Look Forward to Tomorrow. Performance Improvement Journal. [DOI](https://doi.org/10.1002/pfi.21911)
+Watkins, R. (2020). Looking Back from the Future to Look Forward to Tomorrow. Performance Improvement Journal. 59(2-4) 24-31. [DOI](https://doi.org/10.1002/pfi.21911)
 
 Watkins, R. (2017). Monitoring and Evaluation Training: A Systematic Approach [book review]. Journal of Evaluation and Program Planning. [DOI](https://doi.org/10.1016/j.evalprogplan.2017.03.008)
 
@@ -670,33 +670,33 @@ Watkins, R. & Feuer, M. (2023). AI challenges: Practical and Theoretical. Advanc
 
 Watkins, R. (2022). [Update Your Course Syllabus for ChatGPT](https://medium.com/@rwatkins_7167/updating-your-course-syllabus-for-chatgpt-965f4b57b003?sharedUserId=rwatkins_7167). Medium. [85k+ views]
 
-Watkins, R. (2021). Needs and Artificial Intelligence. American Evaluation Association 365 Blog.
+Watkins, R. (2021). Needs and Artificial Intelligence. [American Evaluation Association 365 Blog](https://aea365.org/blog/).
 
-Watkins, R. (2020). Necessity and Sufficiency: A quick example. American Evaluation Association 365 Blog.
+Watkins, R. (2020). Necessity and Sufficiency: A quick example. [American Evaluation Association 365 Blog](https://aea365.org/blog/).
 
-Watkins, R. (2019). Measuring Necessity and Sufficiency. American Evaluation Association 365 Blog.
+Watkins, R. (2019). Measuring Necessity and Sufficiency. [American Evaluation Association 365 Blog](https://aea365.org/blog/).
 
 Watkins, R. (2016). Using Video to Share Your Science. AddGene.
 
-Watkins, R. (2016). Needs Assessment: Making Recommendations. American Evaluation Association 365 Blog.
+Watkins, R. (2016). Needs Assessment: Making Recommendations. [American Evaluation Association 365 Blog](https://aea365.org/blog/).
 
-Watkins, R. (2015). Words Matter: As is the case with needs. American Evaluation Association 365 Blog.
+Watkins, R. (2015). Words Matter: As is the case with needs. [American Evaluation Association 365 Blog](https://aea365.org/blog/).
 
-Watkins, R. (2015). Research Paradigms for Needs Assessment (or Evaluation). American Evaluation Association 365 Blog.
+Watkins, R. (2015). Research Paradigms for Needs Assessment (or Evaluation). [American Evaluation Association 365 Blog](https://aea365.org/blog/).
 
 Watkins, R. (2015). Crowdfunding science: what are the options and opportunities? Wiley Exchanges Blog.
 
-Watkins, R. (2014). Planning to Measure Needs. AEA365 Blog.
+Watkins, R. (2014). Planning to Measure Needs. [American Evaluation Association 365 Blog](https://aea365.org/blog/).
 
 Watkins, R. (2014). Using Video to Assess Student Critical Thinking on Research. Wiley Exchanges Blog.
 
 Watkins, R. (2013). Sharing science – how social media can help break down disciplinary boundaries. Wiley Exchanges Blog.
 
-Watkins, R. (2012). Staying Current. American Evaluation Association 365 Blog.
+Watkins, R. (2012). Staying Current. [American Evaluation Association 365 Blog](https://aea365.org/blog/).
 
-Watkins, R. (2012). Overcoming Five Obstacles to a Successful Needs Assessment. American Evaluation Association 365 Blog.
+Watkins, R. (2012). Overcoming Five Obstacles to a Successful Needs Assessment. [American Evaluation Association 365 Blog](https://aea365.org/blog/).
 
-Watkins, R. (2012). Five Must Read Articles on Needs Assessment. American Evaluation Association 365 Blog.
+Watkins, R. (2012). Five Must Read Articles on Needs Assessment. [American Evaluation Association 365 Blog](https://aea365.org/blog/).
 
 Watkins, R. (2007). The Systematic Design of Performance Improvement Systems. PerformanceXpress.
 
