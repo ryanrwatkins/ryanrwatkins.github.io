@@ -15,5 +15,6 @@ __pycache__/
 # Local research-map embedding cache. Generated graph and browser assets remain tracked.
 .cache/research-map/
 node_modules/
+research-map/SKILL.md
 
 /.quarto/
