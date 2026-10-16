@@ -25,6 +25,8 @@ My current work focuses on trustworthy AI, human-technology collaboration, educa
 
 ## Recent Publications
 
+Szajnfarber, Z., Starr, S., Huffman, B., Singh, A., & Watkins, R. (submitted). *The MESH environment: Multi-level evaluation of sociotechnical HAI-workflows*. *[Systems Engineering](https://incose.onlinelibrary.wiley.com/journal/15206858)*.
+
 Watkins, R., & Lee, V. (accepted). Toward Reproducible Research with LLMs: Guidance for Documentation, Reporting, and Transparency. *Sage Research Methods Handbook: Using AI for Research*. [Preprint](https://osf.io/preprints/metaarxiv/8g7ja_v1)
 
 Watkins, R., and Jorgenson, H. (2027). LLMs in Research: Opportunities, Risks, and Ethics in the Age of AI-Augmented Science. In: Medsker, L. (eds) *AI and Ethics Handbook*. Springer, Cham. [DOI](https://doi.org/10.1007/978-3-032-12201-8_33)
