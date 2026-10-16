@@ -438,6 +438,8 @@ Faruque, F., Watkins, R., Medsker, L. (2020). Monitoring Trust in Human-Machine 
 
 ### Blind Peer-Reviewed Publications
 
+Szajnfarber, Z., Starr, S., Huffman, B., Singh, A., & Watkins, R. (submitted). *The MESH environment: Multi-level evaluation of sociotechnical HAI-workflows*. *[Systems Engineering](https://incose.onlinelibrary.wiley.com/journal/15206858)*.
+
 
 Liu, S., Chu, C., Grey, B., Grim, P., Hall, A., Watkins, R. (submitted). Exploring the Impact of Generative AI on Student Problem-Solving in Computer Programming Labs. ACM Transactions on Computing Education (TOCE)
 
