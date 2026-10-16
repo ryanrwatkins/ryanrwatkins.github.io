@@ -25,6 +25,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 
 LOGGER = logging.getLogger(__name__)
 REQUIRED_FIELDS = {"title", "abstract", "url"}
+OPTIONAL_FIELDS = {"id"}
 DEFAULT_ENDPOINT = "http://127.0.0.1:11435"
 DEFAULT_MODEL = "qwen3-embedding:latest"
 
@@ -47,12 +48,16 @@ class Paper:
 
 
 def read_papers(path: Path) -> list[Paper]:
-    """Load a clean three-column research CSV, rejecting malformed records."""
+    """Load a research CSV with semantic fields and an optional stable identifier."""
     with path.open(encoding="utf-8", newline="") as source:
         reader = csv.DictReader(source)
         fields = set(reader.fieldnames or [])
-        if fields != REQUIRED_FIELDS:
-            raise ValueError(f"{path} must contain exactly {sorted(REQUIRED_FIELDS)}; found {sorted(fields)}")
+        allowed_fields = REQUIRED_FIELDS | OPTIONAL_FIELDS
+        if not REQUIRED_FIELDS <= fields or not fields <= allowed_fields:
+            raise ValueError(
+                f"{path} must contain {sorted(REQUIRED_FIELDS)} with optional "
+                f"{sorted(OPTIONAL_FIELDS)}; found {sorted(fields)}"
+            )
 
         papers: list[Paper] = []
         seen_urls: set[str] = set()

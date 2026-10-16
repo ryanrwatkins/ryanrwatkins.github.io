@@ -20,12 +20,23 @@ SPEC.loader.exec_module(builder)
 
 
 class ResearchMapBuilderTests(unittest.TestCase):
-    def test_read_papers_requires_exact_public_schema(self) -> None:
+    def test_read_papers_requires_semantic_fields(self) -> None:
         with tempfile.TemporaryDirectory() as temporary_directory:
             path = Path(temporary_directory) / "bad.csv"
             path.write_text("title,url\nPaper,https://example.org\n", encoding="utf-8")
-            with self.assertRaisesRegex(ValueError, "exactly"):
+            with self.assertRaisesRegex(ValueError, "must contain"):
                 builder.read_papers(path)
+
+    def test_read_papers_accepts_optional_stable_identifier(self) -> None:
+        with tempfile.TemporaryDirectory() as temporary_directory:
+            path = Path(temporary_directory) / "papers.csv"
+            path.write_text(
+                "id,title,abstract,url\nr001,Paper,Abstract,https://example.org\n",
+                encoding="utf-8",
+            )
+            papers = builder.read_papers(path)
+
+        self.assertEqual(papers, [builder.Paper("Paper", "Abstract", "https://example.org")])
 
     def test_similarity_edges_are_unique_and_bounded(self) -> None:
         embeddings = np.array([[1, 0], [0.99, 0.01], [0, 1]], dtype=np.float32)
