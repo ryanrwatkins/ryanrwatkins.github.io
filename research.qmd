@@ -4,7 +4,7 @@ description: "A living map of the research themes that shape my interests."
 page-layout: full
 ---
 
-This interactive map represents research that has caught my attention across my reading. Papers are grouped and connected based on semantic similarity in their titles and abstracts, providing a living view of the themes and connections shaping my research interests rather than a systematic review of any field.
+This interactive map draws on research articles I have shared with doctoral students in my lab over the past several years, selected from daily feeds of recent scholarship. Papers are grouped and connected based on semantic similarity in their titles and abstracts, providing a living view of the themes and connections shaping my research interests rather than a systematic review of any field.
 
 <div id="research-map-summary" class="research-map-summary" aria-live="polite"></div>
 
