@@ -219,7 +219,7 @@ Watkins, R. (2014). Needs Assessment Docs: Online repository for needs assessmen
 
 Watkins, R. (2013). [We Share Science](https://wesharescience.com) (A place to search, share, and discuss today's research)
 
-Watkins, R. (2006). NeedsAssessment.Org: All things needs assessment. (curated website -- deprecated)
+Watkins, R. (2006). [NeedsAssessment: All things needs assessment](https://ryanrwatkins.github.io/needsassessment/). (a clearinghouse for resources on needs and needs assessments)
 
 Watkins, R. (2003). High Impact Results: Implementer's companion for Strategic Planning for Success (CD-ROM). San Francisco: Jossey-Bass. (multimedia DVD)
 
@@ -1117,7 +1117,7 @@ U.S. Veteran's Benefits Administration
 
 George Washington University's Ad Hoc Interdisciplinary Review Committee (AY 2026/2027)
 
-George Washington University's SPH Research Showcase, judge (2022)
+George Washington University's SPH Research Showcase, judge (2022, 2026)
 
 George Washington University’s AI@GW Mapping Committee (2025 – 2026)
 
@@ -1148,15 +1148,15 @@ George Washington University's Center for Innovative Teaching and Learning Facul
 
 #### Service to the Graduate School
 
-George Washington University's Graduate School of Education and Human Development's Executive Committee (2026)
+George Washington University's Graduate School of Education and Human Development's Executive Committee (Chair, 2026)
 
 George Washington University's Graduate School of Education and Human Development's AI Training for Faculty and Staff (2026)
 
-George Washington University's Graduate School of Education and Human Development's Re-Imagining the Masters Task Force (2023 - present)
+George Washington University's Graduate School of Education and Human Development's Re-Imagining the Masters Task Force (2023)
 
 George Washington University's Graduate School of Education and Human Development's PhD Oversight Committee (2017 - present, Chair 2024 - present)
 
-George Washington University's Graduate School of Education and Human Development's School-wide Personnel Committee (2017 - present, Chair 2020 -present)
+George Washington University's Graduate School of Education and Human Development's School-wide Personnel Committee (2017 - 2026, Chair 2020 - 2026)
 
 George Washington University's Graduate School of Education and Human Development's Vision 2020 Finance Committee (2013 - 2014)
 
@@ -1237,7 +1237,7 @@ International Society for Performance Improvement: Member for Life Committee (20
 
 American Association for Higher Education: Alternatives to Student Credit Hours Task Force (2004)
 
-The Oquirrh Institute 's Center for Competency-Measured Education: Advisory Board Member (2003 - Present)
+The Oquirrh Institute 's Center for Competency-Measured Education: Advisory Board Member (2003 - 2004)
 
 U.S. Department of Education Office of Educational Research and Improvement - Small Business Innovation Research (SBIR) Program: Research Grant Review Board
 
@@ -1254,13 +1254,13 @@ Citizen’s Study Group on Human Services volunteer member (1997)
 
 Journal of Engineering Education (2024/2025, Special Issue editor)
 
-LLMs in Engineering Education Research: Guest editor for the Journal of Engineering Education with Ale Magana and Camilo Vieira Mejia; in progress)
+LLMs in Engineering Education Research: Guest editor for the Journal of Engineering Education with Ale Magana and Camilo Vieira Mejia (2026)
 
 AI & Ethics: Editorial Board (2022 - Present)
 
 Ethics and Information Technology: Editorial Board (2024 - Present)
 
-Quarterly Review of Distance Education: Editorial Board (1999 - Present)
+Quarterly Review of Distance Education: Editorial Board (1999 - 2020)
 
 Telematics and Informatics: Editorial Board (2023)
 
