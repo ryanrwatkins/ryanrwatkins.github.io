@@ -1,32 +1,220 @@
 {
-  "paper_count": 500,
-  "topic_count": 16,
-  "unclustered_paper_count": 223,
-  "similarity_edge_count": 1358,
-  "topic_membership_edge_count": 277,
+  "paper_count": 519,
+  "topic_count": 12,
+  "unclustered_paper_count": 219,
+  "similarity_edge_count": 1409,
+  "topic_membership_edge_count": 300,
   "topics": [
     {
       "id": 0,
-      "label": "ai, trust, reliance, participants, humans",
+      "label": "ai, education, learning, students, literacy",
+      "keywords": [
+        "ai",
+        "education",
+        "learning",
+        "students",
+        "literacy",
+        "educational"
+      ],
+      "paper_count": 60,
+      "paper_ids": [
+        "https://arxiv.org/abs/2609.24083v1",
+        "https://arxiv.org/abs/2608.28501v1",
+        "https://osf.io/preprints/edarxiv/pb7we_v2",
+        "https://arxiv.org/abs/2607.19988v1",
+        "https://osf.io/preprints/edarxiv/jz9h7_v2",
+        "https://arxiv.org/abs/2606.04543v1",
+        "https://osf.io/preprints/psyarxiv/tew9n_v1",
+        "https://arxiv.org/abs/2604.18737v1",
+        "https://osf.io/preprints/socarxiv/82f6v_v2",
+        "https://arxiv.org/abs/2603.16663v1",
+        "https://osf.io/preprints/socarxiv/xjmbv_v1",
+        "https://arxiv.org/abs/2603.03249v1",
+        "https://arxiv.org/abs/2602.14477v1",
+        "https://arxiv.org/abs/2602.16949v1",
+        "https://escholarship.org/uc/item/9c51s3gs",
+        "https://osf.io/preprints/edarxiv/2xu58_v1",
+        "https://arxiv.org/abs/2601.18685v1",
+        "https://osf.io/preprints/edarxiv/a2bhk_v1",
+        "https://arxiv.org/abs/2512.16656v1",
+        "https://arxiv.org/abs/2512.07143v1",
+        "https://arxiv.org/abs/2512.07117v1",
+        "https://arxiv.org/abs/2511.05430v1",
+        "https://osf.io/preprints/edarxiv/6bnez_v1",
+        "https://osf.io/preprints/edarxiv/93w6j_v1",
+        "https://arxiv.org/abs/2510.02929v1",
+        "https://arxiv.org/abs/2509.18900v1",
+        "https://arxiv.org/abs/2509.13348",
+        "https://arxiv.org/abs/2509.11999v1",
+        "https://arxiv.org/abs/2508.19611v1",
+        "https://arxiv.org/abs/2508.11662",
+        "https://arxiv.org/abs/2508.11704",
+        "https://onlinelibrary.wiley.com/doi/10.1002/aaai.70007",
+        "https://arxiv.org/abs/2508.02731",
+        "https://osf.io/preprints/edarxiv/6mke5_v3",
+        "https://arxiv.org/abs/2506.05699",
+        "https://osf.io/preprints/edarxiv/pzk9t_v1",
+        "https://arxiv.org/abs/2505.08083v1",
+        "https://osf.io/preprints/socarxiv/yh6rs_v4",
+        "https://my-ai-university.com/",
+        "https://osf.io/preprints/psyarxiv/t6uzy_v2",
+        "https://arxiv.org/abs/2503.07463v1",
+        "https://ai.stanford.edu/blog/teaching/",
+        "https://osf.io/preprints/edarxiv/s8hqe_v1",
+        "https://arxiv.org/abs/2501.07392v1",
+        "https://arxiv.org/abs/2412.14732v1",
+        "https://arxiv.org/abs/2312.09548",
+        "https://osf.io/preprints/socarxiv/g2dn4",
+        "https://arxiv.org/abs/2310.00658",
+        "https://arxiv.org/abs/2312.12751v1",
+        "https://arxiv.org/abs/2312.05235v1",
+        "https://osf.io/e9q2m/",
+        "https://edarxiv.org/nr3gj/",
+        "https://arxiv.org/abs/2309.08121",
+        "https://arxiv.org/abs/2305.17910",
+        "https://arxiv.org/abs/2305.06450",
+        "https://arxiv.org/abs/2301.10026",
+        "https://montrealethics.ai/ethics-of-ai-in-education-towards-a-community-wide-framework/",
+        "journals.aom.org/doi/full/10.5465/amle.2025.0284",
+        "https://osf.io/preprints/edarxiv/f294y_v2",
+        "arxiv.org/abs/2611.04783v1"
+      ]
+    },
+    {
+      "id": 1,
+      "label": "ai, ethics, ai ethics, ethical, work",
+      "keywords": [
+        "ai",
+        "ethics",
+        "ai ethics",
+        "ethical",
+        "work",
+        "systems"
+      ],
+      "paper_count": 46,
+      "paper_ids": [
+        "https://osf.io/preprints/psyarxiv/yj5n3_v2",
+        "https://arxiv.org/abs/2609.20658v1",
+        "https://arxiv.org/abs/2602.20946",
+        "https://link.springer.com/article/10.1186/s41239-026-00585-x",
+        "https://conference.nber.org/conf_papers/f240807.pdf",
+        "https://press.asimov.com/articles/legibility-problem",
+        "https://dl.acm.org/doi/10.1145/3773292",
+        "https://cpwalker.substack.com/p/context-engineering-why-hayeks-knowledge",
+        "https://link.springer.com/article/10.1007/s11229-025-05378-9",
+        "https://arxiv.org/abs/2512.09729v1",
+        "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5347891",
+        "https://arxiv.org/abs/2509.10331v1",
+        "https://arxiv.org/abs/2505.00174",
+        "https://nber.org/papers/w34174",
+        "https://osf.io/preprints/psyarxiv/8yr92_v1",
+        "https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-040723-013245",
+        "https://www.oecd.org/en/publications/introducing-the-oecd-ai-capability-indicators_be745f04-en/full-report/component-6.html#chapter-d1e1638-d9b22a99ec",
+        "https://arxiv.org/abs/2504.01029",
+        "https://arxiv.org/abs/2503.18842v1",
+        "https://arxiv.org/pdf/2503.06788",
+        "https://journals.sagepub.com/doi/abs/10.1177/00222429251314491",
+        "https://philarchive.org/rec/POSTIO-10",
+        "https://philpapers.org/archive/POSTIO-10.pdf",
+        "https://www.imf.org/en/Publications/Staff-Discussion-Notes/Issues/2024/01/14/Gen-AI-Artificial-Intelligence-and-the-Future-of-Work-542379?cid=bl-com-SDNEA2024001>",
+        "https://osf.io/preprints/socarxiv/6dfk3/",
+        "https://arxiv.org/abs/2311.01254v1",
+        "https://arxiv.org/pdf/2305.11876.pdf",
+        "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4445706",
+        "https://arxiv.org/abs/2305.09573",
+        "https://psyarxiv.com/jvdpe/",
+        "https://arxiv.org/abs/2304.13688",
+        "https://arxiv.org/abs/2304.08366",
+        "https://arxiv.org/abs/2303.17555",
+        "https://arxiv.org/abs/2303.12642",
+        "https://arxiv.org/abs/2303.05500",
+        "https://arxiv.org/abs/2206.11922",
+        "https://www.sciencedirect.com/science/article/pii/S0736585322001587",
+        "https://arxiv.org/abs/2302.09319",
+        "https://arxiv.org/abs/2210.06470",
+        "https://arxiv.org/abs/2203.09911",
+        "https://osf.io/preprints/socarxiv/jqxb6/",
+        "https://arxiv.org/abs/2301.07766",
+        "https://arxiv.org/abs/2212.01834",
+        "https://journals.sagepub.com/doi/10.1177/08944393261481511",
+        "papers.ssrn.com/sol3/papers.cfm?abstract_id=7605598",
+        "osf.io/preprints/socarxiv/atuzd_v1"
+      ]
+    },
+    {
+      "id": 2,
+      "label": "science, research, social, theories, data",
+      "keywords": [
+        "science",
+        "research",
+        "social",
+        "theories",
+        "data",
+        "knowledge"
+      ],
+      "paper_count": 35,
+      "paper_ids": [
+        "https://osf.io/preprints/psyarxiv/ja2fv_v2",
+        "https://renjie-bao.github.io/uploads/Just_One_More_Clip.pdf",
+        "https://osf.io/preprints/psyarxiv/jx3y7_v1",
+        "https://www.nature.com/articles/s41562-026-02553-x",
+        "s3.amazonaws.com/fieldexperiments-papers2/papers/00838.pdf",
+        "russpoldrack.substack.com/p/scientific-workflow-management",
+        "https://asteriskmag.com/issues/10/can-we-trust-social-science-yet",
+        "https://osf.io/preprints/socarxiv/974mr_v1",
+        "https://stsprogram.org/admin/files/Jasanoff_Civic-Epistemology-.pdf",
+        "https://osf.io/preprints/psyarxiv/drvnz_v1",
+        "https://osf.io/preprints/psyarxiv/v2nat_v1",
+        "https://diagrammonkey.wordpress.com/2025/07/03/how-to-science-a-science-with-science/",
+        "https://journals.sagepub.com/doi/10.1177/00031224211004187",
+        "https://osf.io/preprints/psyarxiv/acpm3_v2",
+        "https://osf.io/preprints/osf/k78ft_v2",
+        "https://osf.io/preprints/psyarxiv/58y4k_v2",
+        "https://osf.io/preprints/osf/6c5e2_v1",
+        "https://osf.io/preprints/socarxiv/xed8a",
+        "https://www.nature.com/articles/d41586-024-04096-5",
+        "https://osf.io/preprints/osf/kje7r",
+        "https://osf.io/preprints/psyarxiv/sqbpv",
+        "https://www.sciencedirect.com/science/article/pii/S014829632400122X",
+        "https://philpapers.org/archive/KIMTPB-5.pdf",
+        "https://osf.io/preprints/psyarxiv/r92gx",
+        "https://arxiv.org/abs/2312.08090v1",
+        "https://arxiv.org/abs/2311.07490v1",
+        "https://psyarxiv.com/mdgp7/",
+        "https://psyarxiv.com/v4nb2/",
+        "https://osf.io/preprints/metaarxiv/h8xjw/",
+        "https://arxiv.org/abs/2303.15536",
+        "https://osf.io/preprints/socarxiv/qr89d/",
+        "https://www.cigionline.org/articles/chatgpt-strikes-at-the-heart-of-the-scientific-world-view/?utm_source=cigi_newsletter&utm_medium=email&utm_campaign=chatgpt-whats-at-stake",
+        "https://dl.acm.org/doi/10.1145/3736252.3742593",
+        "https://arxiv.org/abs/2101.06146",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC7477771/"
+      ]
+    },
+    {
+      "id": 3,
+      "label": "ai, trust, participants, reliance, human",
       "keywords": [
         "ai",
         "trust",
-        "reliance",
         "participants",
-        "humans",
-        "humanai"
+        "reliance",
+        "human",
+        "humans"
       ],
-      "paper_count": 31,
+      "paper_count": 34,
       "paper_ids": [
         "https://arxiv.org/abs/2608.21220v1",
-        "https://osf.io/preprints/psyarxiv/shwuj_v1",
+        "https://arxiv.org/abs/2607.02467v1",
         "https://osf.io/preprints/psyarxiv/38a6j_v3",
         "https://osf.io/preprints/osf/ghw2v_v3",
+        "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5875162",
         "https://arxiv.org/abs/2512.02848v1",
         "https://arxiv.org/abs/2508.09297",
-        "https://arxiv.org/abs/2504.09865",
+        "https://osf.io/preprints/psyarxiv/mhjn6_v3",
         "https://arxiv.org/abs/2503.07279v1",
         "https://arxiv.org/abs/2410.16560",
+        "https://osf.io/preprints/psyarxiv/mhjn6_v2",
         "https://arxiv.org/abs/2502.13321",
         "https://arxiv.org/abs/2501.12868",
         "https://osf.io/preprints/psyarxiv/tb37z",
@@ -39,12 +227,13 @@
         "https://arxiv.org/abs/2310.02108v1",
         "https://psyarxiv.com/mjx2v/",
         "https://arxiv.org/abs/2309.16606v1",
+        "https://arxiv.org/abs/2309.02524",
         "https://psyarxiv.com/jprmt/",
         "https://www.nber.org/papers/w31422#fromrss",
         "https://arxiv.org/abs/2305.01670",
         "https://arxiv.org/abs/2304.14130",
         "https://arxiv.org/abs/2304.08804",
-        "https://arxiv.org/abs/2303.09224",
+        "https://psyarxiv.com/pn29d/",
         "https://osf.io/z9647/",
         "https://arxiv.org/abs/2302.02187",
         "https://arxiv.org/abs/2301.11333",
@@ -52,82 +241,44 @@
       ]
     },
     {
-      "id": 1,
-      "label": "ai, education, literacy, learning, ai literacy",
-      "keywords": [
-        "ai",
-        "education",
-        "literacy",
-        "learning",
-        "ai literacy",
-        "educational"
-      ],
-      "paper_count": 28,
-      "paper_ids": [
-        "https://arxiv.org/abs/2609.28137v1",
-        "https://arxiv.org/abs/2608.28501v1",
-        "https://arxiv.org/abs/2607.19988v1",
-        "https://osf.io/preprints/edarxiv/jz9h7_v2",
-        "https://arxiv.org/abs/2602.14477v1",
-        "https://arxiv.org/abs/2602.16949v1",
-        "https://osf.io/preprints/edarxiv/2xu58_v1",
-        "https://osf.io/preprints/edarxiv/a2bhk_v1",
-        "https://arxiv.org/abs/2512.16656v1",
-        "https://arxiv.org/abs/2511.05430v1",
-        "https://osf.io/preprints/edarxiv/6bnez_v1",
-        "https://osf.io/preprints/edarxiv/93w6j_v1",
-        "https://arxiv.org/abs/2510.02929v1",
-        "https://arxiv.org/abs/2509.18900v1",
-        "https://arxiv.org/abs/2509.11999v1",
-        "https://onlinelibrary.wiley.com/doi/10.1002/aaai.70007",
-        "https://osf.io/preprints/edarxiv/pzk9t_v1",
-        "https://osf.io/preprints/socarxiv/yh6rs_v4",
-        "https://arxiv.org/abs/2501.07392v1",
-        "https://osf.io/preprints/socarxiv/g2dn4",
-        "https://osf.io/preprints/edarxiv/adxuq",
-        "https://arxiv.org/abs/2403.03920v1",
-        "https://arxiv.org/abs/2312.12751v1",
-        "https://arxiv.org/abs/2312.05235v1",
-        "https://arxiv.org/abs/2305.17910",
-        "https://arxiv.org/abs/2305.06450",
-        "https://arxiv.org/abs/2302.05839",
-        "https://arxiv.org/abs/2301.10026"
-      ]
-    },
-    {
-      "id": 2,
-      "label": "llms, models, language, llm, language models",
+      "id": 4,
+      "label": "llms, models, language, language models, llm",
       "keywords": [
         "llms",
         "models",
         "language",
-        "llm",
         "language models",
-        "large language"
+        "llm",
+        "large"
       ],
-      "paper_count": 27,
+      "paper_count": 32,
       "paper_ids": [
         "https://arxiv.org/abs/2410.00812",
         "https://www.nature.com/articles/s41591-026-04431-5",
         "https://lastexam.ai",
         "https://osf.io/preprints/socarxiv/39ajg_v3",
         "https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents",
-        "https://osf.io/preprints/psyarxiv/6ta3z_v2",
+        "https://llm-liar.github.io/",
+        "https://arxiv.org/abs/2508.05625v1",
         "https://arxiv.org/abs/2507.02618",
-        "https://arxiv.org/abs/2506.20803",
+        "https://arxiv.org/abs/2505.19184",
         "https://dl.acm.org/doi/pdf/10.1145/3708359.3712091",
         "https://arxiv.org/abs/2505.17968",
         "https://arxiv.org/abs/2504.06460v1",
         "https://arxiv.org/abs/2503.24370v1",
         "https://transformer-circuits.pub/2025/attribution-graphs/biology.html",
         "https://arxiv.org/abs/2503.20623v1",
+        "https://arxiv.org/abs/2503.03750",
         "https://arxiv.org/abs/2502.14815v1",
         "https://arxiv.org/abs/2501.08579",
         "https://arxiv.org/abs/2412.10270v1",
         "https://github.com/MadryLab/context-cite>",
-        "https://arxiv.org/pdf/2409.04109",
+        "https://arxiv.org/abs/2404.09329",
         "https://arxiv.org/abs/2401.07115",
         "https://arxiv.org/abs/2305.09620",
+        "https://arxiv.org/abs/2311.16466",
+        "https://arxiv.org/abs/2306.01941",
+        "https://arxiv.org/abs/2307.03941",
         "https://arxiv.org/pdf/2308.08614.pdf",
         "https://arxiv.org/abs/2305.17493v2",
         "https://arxiv.org/abs/2306.01779",
@@ -137,172 +288,62 @@
       ]
     },
     {
-      "id": 3,
-      "label": "ai, design, generative, human, expertise",
-      "keywords": [
-        "ai",
-        "design",
-        "generative",
-        "human",
-        "expertise",
-        "generative ai"
-      ],
-      "paper_count": 24,
-      "paper_ids": [
-        "https://ai-on-the-internet.github.io",
-        "https://arxiv.org/abs/2602.22171v1",
-        "https://arxiv.org/abs/2510.26490v1",
-        "https://arxiv.org/abs/2508.21036v1",
-        "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5407424",
-        "https://arxiv.org/abs/2407.14333v2",
-        "https://arxiv.org/abs/2507.21012v1",
-        "https://arxiv.org/abs/2507.18572",
-        "https://metr.org/Early_2025_AI_Experienced_OS_Devs_Study.pdf",
-        "https://arxiv.org/abs/2506.12879",
-        "https://arxiv.org/abs/2504.08726v1",
-        "https://arxiv.org/abs/2503.24334v1",
-        "https://osf.io/preprints/psyarxiv/k2u87_v1",
-        "https://assets.anthropic.com/m/2e23255f1e84ca97/original/Economic_Tasks_AI_Paper.pdf",
-        "https://osf.io/preprints/psyarxiv/hk9dw_v2",
-        "https://arxiv.org/abs/2501.12374v1",
-        "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5007084",
-        "https://osf.io/preprints/psyarxiv/y69px",
-        "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4527336",
-        "https://arxiv.org/abs/2311.03999v1",
-        "https://psyarxiv.com/6py2m/",
-        "https://arxiv.org/abs/2304.05560",
-        "https://arxiv.org/abs/2307.10811",
-        "https://arxiv.org/abs/2610.06778v1"
-      ]
-    },
-    {
-      "id": 4,
-      "label": "ai, use, psychological, ai use, literacy",
-      "keywords": [
-        "ai",
-        "use",
-        "psychological",
-        "ai use",
-        "literacy",
-        "intelligence"
-      ],
-      "paper_count": 20,
-      "paper_ids": [
-        "https://osf.io/preprints/psyarxiv/yj5n3_v2",
-        "https://link.springer.com/article/10.1186/s41239-026-00585-x",
-        "https://conference.nber.org/conf_papers/f240807.pdf",
-        "https://arxiv.org/abs/2509.10331v1",
-        "https://arxiv.org/abs/2508.20918v1",
-        "https://nber.org/papers/w34174",
-        "https://arxiv.org/abs/2508.03714",
-        "https://osf.io/preprints/psyarxiv/8yr92_v1",
-        "https://www.oecd.org/en/publications/introducing-the-oecd-ai-capability-indicators_be745f04-en/full-report/component-6.html#chapter-d1e1638-d9b22a99ec",
-        "https://arxiv.org/abs/2412.07951",
-        "https://arxiv.org/abs/2405.10632",
-        "https://journals.sagepub.com/doi/abs/10.1177/00222429251314491",
-        "https://www.imf.org/en/Publications/Staff-Discussion-Notes/Issues/2024/01/14/Gen-AI-Artificial-Intelligence-and-the-Future-of-Work-542379?cid=bl-com-SDNEA2024001>",
-        "https://arxiv.org/abs/2309.10448",
-        "https://psyarxiv.com/jvdpe/",
-        "https://www.sciencedirect.com/science/article/pii/S0736585322001587",
-        "https://arxiv.org/abs/2302.09319",
-        "https://osf.io/preprints/socarxiv/jqxb6/",
-        "https://journals.sagepub.com/doi/10.1177/08944393261481511",
-        "osf.io/preprints/psyarxiv/edyfr_v1"
-      ]
-    },
-    {
       "id": 5,
-      "label": "ai, research, scientific, systems, paper",
+      "label": "qualitative, models, participants, llms, language",
       "keywords": [
-        "ai",
-        "research",
-        "scientific",
-        "systems",
-        "paper",
-        "agents"
+        "qualitative",
+        "models",
+        "participants",
+        "llms",
+        "language",
+        "language models"
       ],
-      "paper_count": 20,
+      "paper_count": 18,
       "paper_ids": [
-        "https://arxiv.org/abs/2609.35706v1",
-        "https://nature.com/articles/s41586-026-11044-y",
-        "https://arxiv.org/abs/2602.20946",
-        "https://arxiv.org/pdf/2604.24658",
-        "https://press.asimov.com/articles/legibility-problem",
-        "https://arxiv.org/abs/2603.12226v1",
-        "https://cpwalker.substack.com/p/context-engineering-why-hayeks-knowledge",
-        "https://arxiv.org/abs/2602.03837v1",
-        "https://arxiv.org/abs/2512.09729v1",
-        "https://aiscientist.tools",
-        "https://www.nber.org/papers/w34202",
-        "https://arxiv.org/abs/2509.08713v1",
-        "https://arxiv.org/abs/2505.00174",
-        "https://arxiv.org/abs/2504.01029",
-        "https://osf.io/preprints/osf/th7c8",
-        "https://osf.io/preprints/socarxiv/6dfk3/",
-        "https://arxiv.org/abs/2309.08636",
-        "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4445706",
-        "https://arxiv.org/abs/2304.13688",
-        "https://arxiv.org/abs/2212.01834"
+        "https://osf.io/preprints/psyarxiv/znqkm_v1",
+        "https://osf.io/preprints/socarxiv/3s5eq_v1",
+        "https://arxiv.org/abs/2602.05819v1",
+        "https://arxiv.org/abs/2510.26490v1",
+        "https://osf.io/preprints/psyarxiv/vs2mk_v3",
+        "https://arxiv.org/abs/2407.14333v2",
+        "https://arxiv.org/abs/2508.08242v1",
+        "https://www.microsoft.com/en-us/research/publication/cognitive-loop-via-in-situ-optimization-self-adaptive-reasoning-for-science/",
+        "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4974382",
+        "https://arxiv.org/abs/2506.06166",
+        "https://osf.io/preprints/osf/stakv_v6",
+        "https://arxiv.org/abs/2410.07362",
+        "https://arxiv.org/abs/2411.10109",
+        "https://www.nature.com/articles/s41598-024-51969-w",
+        "https://psyarxiv.com/6py2m/",
+        "https://arxiv.org/abs/2307.08177",
+        "https://arxiv.org/abs/2307.10811",
+        "restud.com/conversations-at-scale-robust-ai-led-interviews/"
       ]
     },
     {
       "id": 6,
-      "label": "theories, science, causal, evidence, public",
-      "keywords": [
-        "theories",
-        "science",
-        "causal",
-        "evidence",
-        "public",
-        "book"
-      ],
-      "paper_count": 20,
-      "paper_ids": [
-        "https://www.nature.com/articles/s41562-026-02553-x",
-        "s3.amazonaws.com/fieldexperiments-papers2/papers/00838.pdf",
-        "https://asteriskmag.com/issues/10/can-we-trust-social-science-yet",
-        "https://stsprogram.org/admin/files/Jasanoff_Civic-Epistemology-.pdf",
-        "https://osf.io/preprints/psyarxiv/v2nat_v1",
-        "https://journals.sagepub.com/doi/10.1177/00031224211004187",
-        "https://osf.io/preprints/osf/k78ft_v2",
-        "https://osf.io/preprints/psyarxiv/58y4k_v2",
-        "https://osf.io/preprints/osf/6c5e2_v1",
-        "https://osf.io/preprints/socarxiv/xed8a",
-        "https://www.nature.com/articles/d41586-024-04096-5",
-        "https://www.sciencedirect.com/science/article/pii/S014829632400122X",
-        "https://philpapers.org/archive/KIMTPB-5.pdf",
-        "https://osf.io/preprints/psyarxiv/r92gx",
-        "https://arxiv.org/abs/2312.08090v1",
-        "https://psyarxiv.com/mdgp7/",
-        "https://psyarxiv.com/v4nb2/",
-        "https://osf.io/preprints/metaarxiv/h8xjw/",
-        "https://arxiv.org/abs/2101.06146",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC7477771/"
-      ]
-    },
-    {
-      "id": 7,
-      "label": "students, feedback, student, ai, learning",
+      "label": "students, feedback, student, learning, ai",
       "keywords": [
         "students",
         "feedback",
         "student",
-        "ai",
         "learning",
+        "ai",
         "responses"
       ],
-      "paper_count": 15,
+      "paper_count": 16,
       "paper_ids": [
         "https://arxiv.org/abs/2609.20484v1",
         "https://arxiv.org/abs/2607.20047v1",
         "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6796398",
+        "https://arxiv.org/abs/2605.18143v1",
         "https://arxiv.org/abs/2601.04919v1",
         "https://arxiv.org/abs/2504.10961",
         "https://arxiv.org/abs/2505.13381v1",
         "https://arxiv.org/abs/2504.11146v1",
         "https://arxiv.org/abs/2504.00408",
+        "https://arxiv.org/abs/2412.09315v1",
         "https://www.tandfonline.com/doi/full/10.1080/03075079.2024.2326956#d1e231",
-        "https://www.sciencedirect.com/science/article/pii/S0360131523002440",
         "https://arxiv.org/pdf/2401.02262v1.pdf",
         "https://arxiv.org/abs/2311.06180v1",
         "https://edarxiv.org/r23bu/",
@@ -311,75 +352,45 @@
       ]
     },
     {
-      "id": 8,
-      "label": "writing, participants, ai writing, human, attitudes",
+      "id": 7,
+      "label": "ai, design, expertise, generative, humanai",
       "keywords": [
-        "writing",
-        "participants",
-        "ai writing",
-        "human",
-        "attitudes",
-        "language"
-      ],
-      "paper_count": 15,
-      "paper_ids": [
-        "https://www.anthropic.com/research/global-workspace",
-        "https://arxiv.org/abs/2602.05819v1",
-        "https://osf.io/preprints/psyarxiv/vs2mk_v3",
-        "https://benjaminmanning.io/files/optimize.pdf",
-        "https://arxiv.org/abs/2508.08242v1",
-        "https://arxiv.org/abs/2506.06166",
-        "https://osf.io/preprints/psyarxiv/mhjn6_v3",
-        "https://osf.io/preprints/osf/stakv_v6",
-        "https://osf.io/preprints/psyarxiv/mhjn6_v2",
-        "https://arxiv.org/abs/2411.10109",
-        "https://osf.io/preprints/psyarxiv/d6jeb>",
-        "https://www.nature.com/articles/s41598-024-51969-w",
-        "https://arxiv.org/abs/2208.08374",
-        "https://arxiv.org/abs/2309.02524",
-        "https://psyarxiv.com/pn29d/"
-      ]
-    },
-    {
-      "id": 9,
-      "label": "ethics, ai ethics, ai, ethical, moral",
-      "keywords": [
-        "ethics",
-        "ai ethics",
         "ai",
-        "ethical",
-        "moral",
-        "ethical decisionmaking"
+        "design",
+        "expertise",
+        "generative",
+        "humanai",
+        "tasks"
       ],
       "paper_count": 15,
       "paper_ids": [
-        "https://link.springer.com/article/10.1007/s11229-025-05378-9",
-        "https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-040723-013245",
-        "https://arxiv.org/abs/2503.18842v1",
-        "https://arxiv.org/pdf/2503.06788",
-        "https://philarchive.org/rec/POSTIO-10",
-        "https://philpapers.org/archive/POSTIO-10.pdf",
-        "https://arxiv.org/abs/2311.01254v1",
-        "https://arxiv.org/pdf/2305.11876.pdf",
-        "https://arxiv.org/abs/2305.09573",
-        "https://arxiv.org/abs/2303.17555",
-        "https://arxiv.org/abs/2303.12642",
-        "https://arxiv.org/abs/2303.05500",
-        "https://arxiv.org/abs/2206.11922",
-        "https://arxiv.org/abs/2203.09911",
-        "https://arxiv.org/abs/2301.07766"
+        "https://arxiv.org/abs/2508.20918v1",
+        "https://metr.org/Early_2025_AI_Experienced_OS_Devs_Study.pdf",
+        "https://arxiv.org/abs/2506.12879",
+        "https://arxiv.org/abs/2412.07951",
+        "https://arxiv.org/abs/2504.08726v1",
+        "https://arxiv.org/abs/2503.24334v1",
+        "https://osf.io/preprints/psyarxiv/k2u87_v1",
+        "https://assets.anthropic.com/m/2e23255f1e84ca97/original/Economic_Tasks_AI_Paper.pdf",
+        "https://osf.io/preprints/psyarxiv/hk9dw_v2",
+        "https://arxiv.org/abs/2501.12374v1",
+        "https://osf.io/preprints/psyarxiv/y69px",
+        "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4527336",
+        "https://arxiv.org/abs/2311.03999v1",
+        "https://arxiv.org/abs/2309.10448",
+        "https://arxiv.org/abs/2304.05560"
       ]
     },
     {
-      "id": 10,
-      "label": "llms, pedagogical, models, tutoring, educational",
+      "id": 8,
+      "label": "llms, models, educational, pedagogical, tutoring",
       "keywords": [
         "llms",
-        "pedagogical",
         "models",
-        "tutoring",
         "educational",
-        "large language"
+        "pedagogical",
+        "tutoring",
+        "language models"
       ],
       "paper_count": 14,
       "paper_ids": [
@@ -391,29 +402,53 @@
         "https://arxiv.org/abs/2507.17985",
         "https://arxiv.org/abs/2410.03781",
         "https://github.com/GeminiLight/gen-mentor>",
+        "https://arxiv.org/abs/2412.09248v1",
         "https://arxiv.org/abs/2412.09416v1",
         "https://arxiv.org/pdf/2412.03856v1",
         "https://arxiv.org/abs/2409.07453v1",
         "https://arxiv.org/pdf/2402.05000v1.pdf",
-        "https://arxiv.org/abs/2309.17447v1",
         "https://arxiv.org/abs/2306.05715"
       ]
     },
     {
-      "id": 11,
-      "label": "information, effect, closeness, options, claims",
+      "id": 9,
+      "label": "research, data, scientific, ai, paper",
+      "keywords": [
+        "research",
+        "data",
+        "scientific",
+        "ai",
+        "paper",
+        "agents"
+      ],
+      "paper_count": 11,
+      "paper_ids": [
+        "https://arxiv.org/abs/2609.35706v1",
+        "https://nature.com/articles/s41586-026-11044-y",
+        "https://arxiv.org/pdf/2604.24658",
+        "https://arxiv.org/abs/2603.12226v1",
+        "https://aiscientist.tools",
+        "https://www.nber.org/papers/w34202",
+        "https://arxiv.org/abs/2509.08713v1",
+        "https://arxiv.org/abs/2501.18493v1",
+        "https://arxiv.org/abs/2404.16630v1",
+        "arxiv.org/abs/2610.34573",
+        "taylorfrancis.com/books/oa-edit/10.4324/9781003799139/algorithms-evidence-kerry-bruce-valentine-gandhi-steffen-bohni-nielsen"
+      ]
+    },
+    {
+      "id": 10,
+      "label": "information, causal, effect, closeness, options",
       "keywords": [
         "information",
+        "causal",
         "effect",
         "closeness",
         "options",
-        "claims",
-        "counterfactual"
+        "claims"
       ],
-      "paper_count": 12,
+      "paper_count": 11,
       "paper_ids": [
-        "https://renjie-bao.github.io/uploads/Just_One_More_Clip.pdf",
-        "https://osf.io/preprints/psyarxiv/jx3y7_v1",
         "https://osf.io/preprints/psyarxiv/ybnpe_v2",
         "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0310216&ref=thebrowser.com",
         "https://osf.io/preprints/psyarxiv/qbdzp",
@@ -423,101 +458,29 @@
         "https://osf.io/preprints/psyarxiv/b2xeg/",
         "https://psyarxiv.com/zygks/",
         "https://psyarxiv.com/h9ypd/",
+        "https://psyarxiv.com/pf9sq/",
         "osf.io/preprints/psyarxiv/qvwdy_v6"
       ]
     },
     {
-      "id": 12,
-      "label": "scientists, research, ai, generative, tools",
-      "keywords": [
-        "scientists",
-        "research",
-        "ai",
-        "generative",
-        "tools",
-        "researchers"
-      ],
-      "paper_count": 12,
-      "paper_ids": [
-        "https://www.nature.com/articles/s41586-025-09922-y",
-        "https://ai.google/static/documents/AI-in-Science.pdf",
-        "https://aeon.co/essays/what-we-cant-measure-about-ai-yet",
-        "https://arxiv.org/abs/2606.05118v1",
-        "https://arxiv.org/abs/2602.12207v1",
-        "https://arxiv.org/pdf/2509.03065v1",
-        "https://osf.io/preprints/osf/5v8sk_v3",
-        "https://osf.io/preprints/osf/uy4c7",
-        "https://arxiv.org/abs/2411.12142",
-        "https://arxiv.org/abs/2411.07038v1",
-        "https://osf.io/preprints/socarxiv/rwtzs/",
-        "https://arxiv.org/pdf/2609.30588"
-      ]
-    },
-    {
-      "id": 13,
-      "label": "lab, research, knowledge, science, culture",
-      "keywords": [
-        "lab",
-        "research",
-        "knowledge",
-        "science",
-        "culture",
-        "workflow"
-      ],
-      "paper_count": 8,
-      "paper_ids": [
-        "https://osf.io/preprints/psyarxiv/ja2fv_v2",
-        "russpoldrack.substack.com/p/scientific-workflow-management",
-        "https://osf.io/preprints/socarxiv/974mr_v1",
-        "https://osf.io/preprints/psyarxiv/drvnz_v1",
-        "https://osf.io/preprints/osf/kje7r",
-        "https://osf.io/preprints/psyarxiv/sqbpv",
-        "https://arxiv.org/abs/2303.15536",
-        "https://osf.io/preprints/socarxiv/qr89d/"
-      ]
-    },
-    {
-      "id": 14,
-      "label": "creative, agency, ai, learning, process",
-      "keywords": [
-        "creative",
-        "agency",
-        "ai",
-        "learning",
-        "process",
-        "students"
-      ],
-      "paper_count": 8,
-      "paper_ids": [
-        "https://osf.io/preprints/psyarxiv/tew9n_v1",
-        "https://osf.io/preprints/socarxiv/82f6v_v2",
-        "https://osf.io/preprints/socarxiv/xjmbv_v1",
-        "https://escholarship.org/uc/item/9c51s3gs",
-        "https://arxiv.org/abs/2512.07143v1",
-        "https://arxiv.org/abs/2512.07117v1",
-        "https://arxiv.org/abs/2508.11662",
-        "https://ai.stanford.edu/blog/teaching/"
-      ]
-    },
-    {
-      "id": 15,
-      "label": "llms, students, questions, educational, writing",
+      "id": 11,
+      "label": "llms, students, writing, prompting, content",
       "keywords": [
         "llms",
         "students",
-        "questions",
-        "educational",
         "writing",
-        "models"
+        "prompting",
+        "content",
+        "lessons"
       ],
       "paper_count": 8,
       "paper_ids": [
+        "https://arxiv.org/pdf/2506.17356",
         "https://arxiv.org/abs/2504.07840v1",
         "https://arxiv.org/abs/2409.09047",
         "https://osf.io/preprints/osf/8q67u_v2",
-        "https://arxiv.org/abs/2501.05220v1",
+        "https://arxiv.org/abs/2411.16337",
         "https://arxiv.org/abs/2410.22282v1",
-        "https://arxiv.org/abs/2401.05914v1",
         "https://arxiv.org/abs/2311.03311v1",
         "https://arxiv.org/abs/2211.14228"
       ]
@@ -528,147 +491,147 @@
       "title": "\"I Like That You Have to Poke Around\": Instructors on How Experiential Approaches to AI Literacy Spark Inquiry and Critical Thinking",
       "url": "https://arxiv.org/abs/2511.05430v1",
       "degree": 9,
-      "topic_label": "ai, education, literacy, learning, ai literacy"
-    },
-    {
-      "title": "A Large Language Model Approach to Educational Survey Feedback Analysis",
-      "url": "https://arxiv.org/abs/2309.17447v1",
-      "degree": 9,
-      "topic_label": "llms, pedagogical, models, tutoring, educational"
+      "topic_label": "ai, education, learning, students, literacy"
     },
     {
       "title": "A Qualitative Analysis of Creative Agency and Offloading in an AI-assisted Educational Game Design Assignment",
       "url": "https://osf.io/preprints/socarxiv/82f6v_v2",
       "degree": 9,
-      "topic_label": "creative, agency, ai, learning, process"
+      "topic_label": "ai, education, learning, students, literacy"
     },
     {
       "title": "A Theoretical Framework of Student Agency in AI- Assisted Learning: A Grounded Theory Approach",
       "url": "https://arxiv.org/abs/2512.07143v1",
       "degree": 9,
-      "topic_label": "creative, agency, ai, learning, process"
+      "topic_label": "ai, education, learning, students, literacy"
     },
     {
       "title": "AI Agents for Economic Research",
       "url": "https://www.nber.org/papers/w34202",
       "degree": 9,
-      "topic_label": "ai, research, scientific, systems, paper"
+      "topic_label": "research, data, scientific, ai, paper"
     },
     {
       "title": "AI Meets the Classroom: When Do Large Language Models Harm Learning?",
       "url": "https://arxiv.org/abs/2409.09047",
       "degree": 9,
-      "topic_label": "llms, students, questions, educational, writing"
-    },
-    {
-      "title": "AI in Science: Early Insights",
-      "url": "https://ai.google/static/documents/AI-in-Science.pdf",
-      "degree": 9,
-      "topic_label": "scientists, research, ai, generative, tools"
+      "topic_label": "llms, students, writing, prompting, content"
     },
     {
       "title": "AI-Generated Messages Can Be Used to Persuade Humans on Policy Issues",
       "url": "https://osf.io/preprints/osf/stakv_v6",
       "degree": 9,
-      "topic_label": "writing, participants, ai writing, human, attitudes"
+      "topic_label": "qualitative, models, participants, llms, language"
+    },
+    {
+      "title": "AI-University: An LLM-based platform for instructional alignment to scientific classrooms",
+      "url": "https://my-ai-university.com/",
+      "degree": 9,
+      "topic_label": "ai, education, learning, students, literacy"
     },
     {
       "title": "Adjust for Trust: Mitigating Trust-Induced Inappropriate Reliance on AI Assistance",
       "url": "https://arxiv.org/abs/2502.13321",
       "degree": 9,
-      "topic_label": "ai, trust, reliance, participants, humans"
+      "topic_label": "ai, trust, participants, reliance, human"
+    },
+    {
+      "title": "Agentic Interactions",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5875162",
+      "degree": 9,
+      "topic_label": "ai, trust, participants, reliance, human"
     },
     {
       "title": "Appropriate Reliance, Explainable AI, Human-AI Collaboration, Human-AI Complementarity",
       "url": "https://arxiv.org/abs/2302.02187",
       "degree": 9,
-      "topic_label": "ai, trust, reliance, participants, humans"
+      "topic_label": "ai, trust, participants, reliance, human"
     },
     {
       "title": "Are Large Language Models Reliable AI Scientists? Assessing Reverse-Engineering of Black-Box Systems",
       "url": "https://arxiv.org/abs/2505.17968",
       "degree": 9,
-      "topic_label": "llms, models, language, llm, language models"
+      "topic_label": "llms, models, language, language models, llm"
     },
     {
       "title": "Artificial Intelligence in Teacher Professional Development: A Systematic Review",
       "url": "https://osf.io/preprints/edarxiv/a2bhk_v1",
       "degree": 9,
-      "topic_label": "ai, education, literacy, learning, ai literacy"
+      "topic_label": "ai, education, learning, students, literacy"
     }
   ],
   "bridge_papers": [
     {
-      "title": "Needmining: Designing Digital Support to Elicit Needs from Social Media",
-      "url": "https://arxiv.org/abs/2101.06146",
-      "betweenness": 0.040225,
-      "topic_label": "theories, science, causal, evidence, public"
+      "title": "\"I'm Not Confident in Debiasing AI Systems Since I Know Too Little\": Teaching AI Creators About Gender Bias Through Hands-on Tutorials",
+      "url": "https://arxiv.org/abs/2309.08121",
+      "betweenness": 0.074238,
+      "topic_label": "ai, education, learning, students, literacy"
     },
     {
-      "title": "Rethinking Think-Aloud in the Age of Language Models",
-      "url": "https://osf.io/preprints/psyarxiv/6ta3z_v2",
-      "betweenness": 0.036659,
-      "topic_label": "llms, models, language, llm, language models"
+      "title": "Factoring the Matrix of Domination: A Critical Review and Reimagination of Intersectionality in AI Fairness",
+      "url": "https://arxiv.org/abs/2303.17555",
+      "betweenness": 0.070864,
+      "topic_label": "ai, ethics, ai ethics, ethical, work"
     },
     {
-      "title": "Do You Trust ChatGPT? -- Perceived Credibility of Human and AI-Generated Content",
-      "url": "https://arxiv.org/abs/2309.02524",
-      "betweenness": 0.031423,
-      "topic_label": "writing, participants, ai writing, human, attitudes"
+      "title": "ChatGPT Strikes at the Heart of the Scientific World View",
+      "url": "https://www.cigionline.org/articles/chatgpt-strikes-at-the-heart-of-the-scientific-world-view/?utm_source=cigi_newsletter&utm_medium=email&utm_campaign=chatgpt-whats-at-stake",
+      "betweenness": 0.050226,
+      "topic_label": "science, research, social, theories, data"
     },
     {
-      "title": "Navigating the Ethical Landscape of Multimodal Learning Analytics: A Guiding Framework",
-      "url": "https://osf.io/preprints/edarxiv/adxuq",
-      "betweenness": 0.030305,
-      "topic_label": "ai, education, literacy, learning, ai literacy"
+      "title": "“ChatGPT Says You’re Wrong!” How Generative AI Exposes the Fragility of Explanation-Centered Pedagogy",
+      "url": "journals.aom.org/doi/full/10.5465/amle.2025.0284",
+      "betweenness": 0.048957,
+      "topic_label": "ai, education, learning, students, literacy"
     },
     {
-      "title": "PosterMate: Audience-driven Collaborative Persona Agents for [marketing] Poster Design",
-      "url": "https://arxiv.org/abs/2507.18572",
-      "betweenness": 0.029889,
-      "topic_label": "ai, design, generative, human, expertise"
+      "title": "Some Simple Economics of AGI",
+      "url": "https://arxiv.org/abs/2602.20946",
+      "betweenness": 0.036916,
+      "topic_label": "ai, ethics, ai ethics, ethical, work"
     },
     {
-      "title": "Human-AI Collaboration in Thematic Analysis using ChatGPT: A User Study and Design Recommendations",
-      "url": "https://arxiv.org/abs/2311.03999v1",
-      "betweenness": 0.028718,
-      "topic_label": "ai, design, generative, human, expertise"
+      "title": "Conversational AI and equity through assessing GPT-3’s communication with diverse social groups on contentious topics",
+      "url": "https://www.nature.com/articles/s41598-024-51969-w",
+      "betweenness": 0.03581,
+      "topic_label": "qualitative, models, participants, llms, language"
     },
     {
-      "title": "Decoding Instructional Dialogue: Human-AI Collaborative Analysis of Teacher Use of AI Tool at Scale",
-      "url": "https://arxiv.org/abs/2507.17985",
-      "betweenness": 0.028688,
-      "topic_label": "llms, pedagogical, models, tutoring, educational"
+      "title": "Context Engineering: Why Hayek's Knowledge Problem Survives AI",
+      "url": "https://cpwalker.substack.com/p/context-engineering-why-hayeks-knowledge",
+      "betweenness": 0.031216,
+      "topic_label": "ai, ethics, ai ethics, ethical, work"
     },
     {
-      "title": "Labeling Messages as AI-Generated Does Not Reduce Their Persuasive Effects",
-      "url": "https://arxiv.org/abs/2504.09865",
-      "betweenness": 0.028643,
-      "topic_label": "ai, trust, reliance, participants, humans"
+      "title": "Self-Resolving Prediction Markets for Unverifiable Outcomes",
+      "url": "https://dl.acm.org/doi/10.1145/3736252.3742593",
+      "betweenness": 0.030089,
+      "topic_label": "science, research, social, theories, data"
     },
     {
-      "title": "AI Will Not Want to Self-Improve",
-      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4445706",
-      "betweenness": 0.028023,
-      "topic_label": "ai, research, scientific, systems, paper"
+      "title": "Moral Concern for AI",
+      "url": "https://osf.io/preprints/psyarxiv/38a6j_v3",
+      "betweenness": 0.028063,
+      "topic_label": "ai, trust, participants, reliance, human"
     },
     {
-      "title": "Human participants in AI research: Ethics and transparency in practice",
-      "url": "https://arxiv.org/abs/2311.01254v1",
-      "betweenness": 0.028016,
-      "topic_label": "ethics, ai ethics, ai, ethical, moral"
+      "title": "Effective context engineering for AI agents",
+      "url": "https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents",
+      "betweenness": 0.026757,
+      "topic_label": "llms, models, language, language models, llm"
     },
     {
       "title": "VizTrust: A Visual Analytics Tool for Capturing User Trust Dynamics in Human-AI Communication",
       "url": "https://arxiv.org/abs/2503.07279v1",
-      "betweenness": 0.026467,
-      "topic_label": "ai, trust, reliance, participants, humans"
+      "betweenness": 0.026494,
+      "topic_label": "ai, trust, participants, reliance, human"
     },
     {
-      "title": "Momentum is a key driver of temporally-extended goal persistence in humans",
-      "url": "https://osf.io/preprints/psyarxiv/r92gx",
-      "betweenness": 0.025885,
-      "topic_label": "theories, science, causal, evidence, public"
+      "title": "Pygmalion Displacement: When Humanising AI Dehumanises Women",
+      "url": "https://osf.io/preprints/socarxiv/jqxb6/",
+      "betweenness": 0.02486,
+      "topic_label": "ai, ethics, ai ethics, ethical, work"
     }
   ]
 }
